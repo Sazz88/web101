@@ -2853,6 +2853,85 @@ http://edge.bz:8080/007/007/125390
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e2/Vevothumbnailbanner.png",VEVO REGGAETON & TRAP
 http://edge.bz:8080/007/007/125396
 
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",American_Baseball_Association
+https://hls.showfer.com/stream/631ac7ed2f4a212048bc2e47/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Baseball_TV
+https://hls.showfer.com/stream/62e3e3ffeee46583d763d7f0/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iSports_TV
+https://hls.showfer.com/stream/62dc3168d090f36fc5ab16cf/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iRoller_Blade_TV
+https://hls.showfer.com/stream/6306dad3eee46583d76782d1/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Holr_Sports
+https://hls.showfer.com/stream/62f14e73eee46583d7653a0e/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Hard_Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-AiryTV/121.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Ski_TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-AiryTV/193.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Allied_Esports
+https://d1lvmtqnqngsrn.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/AlliedESports-SportsTribal/213.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",World_Poker_Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-AiryTV/120.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",ASTV
+https://hls.showfer.com/stream/63000cfdeee46583d7672c27/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Poker_Night
+https://d2ac29vaob351i.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PokerNight-AiryTV/216.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Fight_Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Fishing_Offshore
+https://30a-tv.com/feeds/airytv/fishingoffshore.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",TV_Max_1
+https://hls.showfer.com/stream/633b024b130f0b717dca9092/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",WBQP_Florida
+https://live-mcl.cdn01.net/web/o2a2f283v/playlist.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",TV_Nuts
+https://hls.showfer.com/stream/631a367f2f4a212048bbed05/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",The_Boomer_Channel
+https://hls.showfer.com/stream/6311234beee46583d7696818/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iHolyfield_TV
+https://hls.showfer.com/stream/62c63bb3d090f36fc5aa4bf1/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iCowboy_TV
+https://hls.showfer.com/stream/62d503bcd090f36fc5aacc56/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Comfy_TV
+https://hls.showfer.com/stream/62bc9ba7b49157d5c4f34e7f/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iSCIFI_TV
+https://hls.showfer.com/stream/62ec3b2feee46583d764a35d/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Movie_Max_1
+https://hls.showfer.com/stream/62b4c591ea1443c3a46902f2/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Movie_Giants
+https://hls.showfer.com/stream/62e229f2eee46583d7637803/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Galaxy_TV
+https://hls.showfer.com/stream/631a41ef2f4a212048bbedc2/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",APTV_Live
+https://hls.airy.tv/stream/49/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",MomCaveTV
+https://hls.showfer.com/stream/6324b7a33b49ae85c5cba873/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Thought_Network_TV
+https://hls.showfer.com/stream/62e92c80eee46583d7646fe6/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iShe_TV
+https://hls.showfer.com/stream/62cb2ee6d090f36fc5aa6810/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Airy_Fitness
+https://hls.showfer.com/stream/62fe4b39eee46583d766c0b1/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Dr_Diaries_TV
+https://hls.showfer.com/stream/62fe829deee46583d766cf1b/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Sidewalks_TV
+https://30a-tv.com/feeds/airytv/sidewalks.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",AXS_TV_Now
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",ThailandTV
+https://hls.airy.tv/stream/33/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",The_Beach_Show
+https://30a-tv.com/feeds/airytv/beachshow.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",30A_TV
+https://30a-tv.com/feeds/airytv/30atv.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",My_Jam_Music_TV
+https://hls.showfer.com/stream/62fe6a9feee46583d766c18b/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Winnies_World_TV
+https://hls.showfer.com/stream/62c9f22bd090f36fc5aa5fd4/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Real_Family_TV
+https://hls.showfer.com/stream/62e077d7eee46583d763465f/airy.m3u8
+#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Youth_Success_TV
+https://hls.showfer.com/stream/62f068c6eee46583d764f7f6/airy.m3u8
+
 #EXTINF:-1 group-title="MOVIE TIME" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: ANIMATION
 http://reaperhosting.club:8080/jeavo/qudojpek/1147282
 #EXTINF:-1 group-title="MOVIE TIME" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: BLOCKBUSTERS
@@ -3409,3 +3488,84 @@ https://tv4.live/api/stream/citi/citi/movie/tt6020800
 https://tv4.live/api/stream/citi/citi/movie/tt11245972
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/d1/17/d1172e00097fa60770be9d6a4e6540cb/d1172e00097fa60770be9d6a4e6540cb.jpg",Last Seen Alive (2022)
 https://tv4.live/api/stream/citi/citi/movie/tt10242388
+
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://i.imgur.com/hlIDlD1.jpg",The Greatest Gift Ever Given  
+https://live-content.xumo.com/1837/content/XM0YNW9RGMTJZF/22526143/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM08F4QXES68A1/600x340.jpg",The Christmas Candle
+https://live-content.xumo.com/2788/content/XM08F4QXES68A1/23290739/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0A76F010NUAQ/896x504.png",Chasing the Star
+https://live-content.xumo.com/228/content/XM0A76F010NUAQ/22991288/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0AEIQLLOD9JO/600x340.jpg",A Christmas Kiss
+https://live-content.xumo.com/232/content/XM0AEIQLLOD9JO/18440989/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0M9Z7Q04BN18/600x340.jpg",Christmas on Holly Lane
+https://live-content.xumo.com/247/content/XM0M9Z7Q04BN18/21753060/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM01N6M2X7NUPR/600x340.jpg",The Christmas Bunny
+https://live-content.xumo.com/232/content/XM01N6M2X7NUPR/18451027/remuxed-XUMO-11403/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM05UQ8DU6Q2BJ/600x340.jpg",Dear Santa
+https://live-content.xumo.com/247/content/XM05UQ8DU6Q2BJ/22161814/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0QYQBUSPW0V0/600x340.jpg",Christmas Break-In
+https://live-content.xumo.com/247/content/XM0QYQBUSPW0V0/21665944/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0AQUCEZWCEFA/600x340.jpg",Christmas Crush
+https://live-content.xumo.com/247/content/XM0AQUCEZWCEFA/19056752/remuxed-XUMO-11403/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0N11BUF0DG9F/600x340.jpg",Christmas For A Dollar
+https://player.zype.com/manifest/5a1da6b38c73f214da0063fb.m3u8?ad_enabled=false&api_key=3PASB80DgKOdJoEdFmyaWw&https=true
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0JC21A1O2751/600x340.jpg",Christmas Grace
+https://live-content.xumo.com/1869/content/XM0JC21A1O2751/22501150/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0LTYQM5Q8YDI/600x340.jpg",A Christmas Solo
+https://live-content.xumo.com/247/content/XM0LTYQM5Q8YDI/21752382/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://i.imgur.com/mRMM6OC.jpg",A Very Corgi Christmas
+https://live-content.xumo.com/2726/content/XM03NWWUAF7PBQ/23310041/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0XUCJBERW1KM/600x340.jpg",A Christmas Village
+https://live-content.xumo.com/2726/content/XM0XUCJBERW1KM/23309985/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0YGIQDYP7KA0/600x340.jpg",A Holiday For Love
+https://live-content.xumo.com/2726/content/XM0YGIQDYP7KA0/23309991/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0EDGNSOWLYYZ/600x340.jpg",Christmas Wedding Runaway
+https://live-content.xumo.com/2726/content/XM0EDGNSOWLYYZ/23309986/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0EVXBU0NBZ94/600x340.jpg",Christmas Mountain - The Story Of A Cowboy Angel
+https://live-content.xumo.com/2045/content/XM0EVXBU0NBZ94/22577351/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0GQGEWHAC4V5/600x340.jpg",Shoelaces for Christmas
+https://live-content.xumo.com/2726/content/XM0GQGEWHAC4V5/23310039/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0LIWLWC9HP50/600x340.jpg",Holiday Switch
+https://live-content.xumo.com/2726/content/XM0LIWLWC9HP50/23309987/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0AKPXH2WSM6Z/600x340.jpg",Chasing Christmas
+https://live-content.xumo.com/228/content/XM0AKPXH2WSM6Z/22531900/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0F0UCND3WE7D/600x340.jpg",Christmas Child - A Max Lucado Story
+https://live-content.xumo.com/228/content/XM0F0UCND3WE7D/21895995/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM04TRR3XZS8P2/600x340.jpg",Christmas Tail
+https://live-content.xumo.com/232/content/XM04TRR3XZS8P2/21875895/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM01LZENR65PAZ/600x340.jpg",Paper Angels
+https://live-content.xumo.com/228/content/XM01LZENR65PAZ/21892739/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0V50CYRNAKDT/600x340.jpg",Candles in the Dark
+https://live-content.xumo.com/243/content/XM0V50CYRNAKDT/22074225/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM03STQ2A87988/600x340.jpg",Christmas Wander
+https://live-content.xumo.com/228/content/XM03STQ2A87988/22523668/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0H1IPBX74BGA/600x340.jpg",Red Big Fire Truck
+https://live-content.xumo.com/1837/content/XM0H1IPBX74BGA/21948792/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM04JWZYT4WNSO/600x340.jpg",The Man Who Saved Christmas
+https://live-content.xumo.com/232/content/XM04JWZYT4WNSO/21870995/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM03P471N0UYG4/600x340.jpg",Runaway Christmas Bride
+https://live-content.xumo.com/1068/content/XM03P471N0UYG4/21563900/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM04F0B8W1YW8H/600x340.jpg",Noelle
+https://live-content.xumo.com/228/content/XM04F0B8W1YW8H/23088403/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0OWTVOJSWTJC/600x340.jpg",Homeless For The Holidays
+https://live-content.xumo.com/1837/content/XM0OWTVOJSWTJC/22207196/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0O9FA8IR10ZJ/600x340.jpg",Small Town Santa
+https://live-content.xumo.com/232/content/XM0O9FA8IR10ZJ/21868292/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM07P73UV32UKE/600x340.jpg",Yes Virginia : There Is A Santa Claus
+https://player.zype.com/manifest/5a1da2ce8c73f214d200638c.m3u8?ad_enabled=false&api_key=3PASB80DgKOdJoEdFmyaWw&https=true
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0T4C6HT6FJ0M/600x340.jpg",Homeless For The Holidays
+https://live-content.xumo.com/228/content/XM0T4C6HT6FJ0M/21892261/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0VG2NIUPV57L/600x340.jpg",12 Days Of Christmas Eve
+https://live-content.xumo.com/197/content/XM0VG2NIUPV57L/19165992/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM071TTHL0DNMZ/600x340.jpg",A Christmas Carol (1984)
+https://live-content.xumo.com/286/content/XM071TTHL0DNMZ/21421660/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM01JJ1MZEREEF/600x340.jpg",Discarding Santa
+https://live-content.xumo.com/905/content/XM01JJ1MZEREEF/22529638/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0PE394Q592SB/600x340.jpg",For Love's Sake
+https://live-content.xumo.com/234/content/XM0PE394Q592SB/22979803/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0WAV20E516IN/600x340.jpg",A Golden Christmas 3
+https://live-content.xumo.com/232/content/XM0WAV20E516IN/18441009/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0L43M3GWTYVH/600x340.jpg",A Little Christmas Business
+https://live-content.xumo.com/232/content/XM0L43M3GWTYVH/21869916/master.m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0ORWSE5P1PRF/600x340.jpg",Merry Ex Mas
+https://live-content.xumo.com/1068/content/XM0ORWSE5P1PRF/22530640/master.m3u8
