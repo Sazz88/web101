@@ -223,6 +223,310 @@ https://5b622f07944df.streamlock.net/cycnow.com/cyc.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.jpg",3ABN Kids Network
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/SQs/chunklist.m3u8 
 
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",Tves SD
+http://higherpro.xyz:8080/Eli/Eli/10359
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",Telesur SD
+http://higherpro.xyz:8080/Eli/Eli/10360
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Telesur (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/10362
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Meridiano
+http://higherpro.xyz:8080/Eli/Eli/10364
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Globovision
+http://higherpro.xyz:8080/Eli/Eli/10365
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Venevision Plus (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/10367
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Venevision Plus
+http://higherpro.xyz:8080/Eli/Eli/10368
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Vive HD
+http://higherpro.xyz:8080/Eli/Eli/10369
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Venezolana de Television
+http://higherpro.xyz:8080/Eli/Eli/10371
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",TV FAMILIA
+http://higherpro.xyz:8080/Eli/Eli/60989
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",Cine TV: A&E (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/79
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",Cine TV: A&E Full HD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/81
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",Cine TV: A&E Full HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/80
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",Cine TV: A&E op
+http://higherpro.xyz:8080/Eli/Eli/65016
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg",Cine TV: AMC Full HD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/84
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg",Cine TV: AMC Full HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/83
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg",Cine TV: AMC HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/82
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg",Cine TV: AXN (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/85
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg",Cine TV: AXN Full HD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/87
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg",Cine TV: AXN Full HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/86
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg",Cine TV: Cine Latino
+http://higherpro.xyz:8080/Eli/Eli/95
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg",Cine TV: Cine Latino (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/94
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",Cine TV: Cinecanal (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/88
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",Cine TV: Cinecanal Full HD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/91
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",Cine TV: Cinecanal Full HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/90
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",Cine TV: Cinecanal HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/89
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/X7HbkNy/CINEDINAMITA.jpg",Cine TV: Cinema Dinamita
+http://higherpro.xyz:8080/Eli/Eli/97
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/X7HbkNy/CINEDINAMITA.jpg",Cine TV: Cinema Dinamita (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/96
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",Cine TV: Cinemax (CO)
+http://higherpro.xyz:8080/Eli/Eli/93
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",Cine TV: Cinemax (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/92
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/2jPFbFZ/CLAROCINEMA.jpg",Cine TV: Claro Cinema
+http://higherpro.xyz:8080/Eli/Eli/98
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg",Cine TV: DHE
+http://higherpro.xyz:8080/Eli/Eli/100
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg",Cine TV: DHE (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/99
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg",Cine TV: DHE Full HD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/101
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg",Cine TV: FX (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/134
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg",Cine TV: FX FHD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/135
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg",Cine TV: FXM (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/136
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",Cine TV: Golden
+http://higherpro.xyz:8080/Eli/Eli/137
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",Cine TV: Golden Edge (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/141
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",Cine TV: Golden FHD
+http://higherpro.xyz:8080/Eli/Eli/138
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO
+http://higherpro.xyz:8080/Eli/Eli/142
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",Cine TV: HBO 2
+http://higherpro.xyz:8080/Eli/Eli/146
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",Cine TV: HBO 2 FHD
+http://higherpro.xyz:8080/Eli/Eli/148
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",Cine TV: HBO 2 FHD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/149
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",Cine TV: HBO 2 HD
+http://higherpro.xyz:8080/Eli/Eli/147
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",Cine TV: HBO Family
+http://higherpro.xyz:8080/Eli/Eli/150
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",Cine TV: HBO Family FHD
+http://higherpro.xyz:8080/Eli/Eli/152
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",Cine TV: HBO Family FHD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/153
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",Cine TV: HBO Family HD
+http://higherpro.xyz:8080/Eli/Eli/151
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO FHD
+http://higherpro.xyz:8080/Eli/Eli/144
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO FHD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/145
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO HD
+http://higherpro.xyz:8080/Eli/Eli/143
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg",Cine TV: HBO Mundi
+http://higherpro.xyz:8080/Eli/Eli/164
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",Cine TV: HBO PLUS
+http://higherpro.xyz:8080/Eli/Eli/154
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",Cine TV: HBO PLUS (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/157
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",Cine TV: HBO PLUS FHD
+http://higherpro.xyz:8080/Eli/Eli/156
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",Cine TV: HBO PLUS HD
+http://higherpro.xyz:8080/Eli/Eli/155
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg",Cine TV: HBO POP
+http://higherpro.xyz:8080/Eli/Eli/166
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg",Cine TV: HBO POP (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/165
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg",Cine TV: HBO POP FHD
+http://higherpro.xyz:8080/Eli/Eli/167
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",Cine TV: HBO Signature
+http://higherpro.xyz:8080/Eli/Eli/159
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",Cine TV: HBO Signature (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/158
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",Cine TV: HBO Signature FHD
+http://higherpro.xyz:8080/Eli/Eli/161
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",Cine TV: HBO Signature HD
+http://higherpro.xyz:8080/Eli/Eli/160
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO Subtitulado
+http://higherpro.xyz:8080/Eli/Eli/162
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO Subtitulado FHD
+http://higherpro.xyz:8080/Eli/Eli/163
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",Cine TV: HBO XTREME
+http://higherpro.xyz:8080/Eli/Eli/169
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",Cine TV: HBO XTREME (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/168
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",Cine TV: HBO XTREME FHD
+http://higherpro.xyz:8080/Eli/Eli/170
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/THM6pYL/STARACTION.jpg",Cine TV: STAR ACTION HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/112
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",Cine TV: STAR CHANNEL (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/102
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",Cine TV: STAR CHANNEL FHD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/104
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",Cine TV: STAR CHANNEL HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/103
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/LdrjdBV/STARCOMEDY.jpg",Cine TV: STAR COMEDY
+http://higherpro.xyz:8080/Eli/Eli/119
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/LdrjdBV/STARCOMEDY.jpg",Cine TV: STAR COMEDY HD
+http://higherpro.xyz:8080/Eli/Eli/120
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VWnc34s/STARSERIES.jpg",Cine TV: STAR SERIES (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/133
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",Cine TV: TNT (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/171
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",Cine TV: TNT FHD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/174
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",Cine TV: TNT FHD (CO)
+http://higherpro.xyz:8080/Eli/Eli/173
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",Cine TV: TNT HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/172
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",Cine TV: TNT SERIES (CO)
+http://higherpro.xyz:8080/Eli/Eli/175
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",Cine TV: TNT SERIES FHD (CO)
+http://higherpro.xyz:8080/Eli/Eli/177
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",Cine TV: TNT SERIES HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/176
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINE| : CINEMAX
+http://higherpro.xyz:8080/Eli/Eli/13768
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg",CINE| A3 Cine
+http://higherpro.xyz:8080/Eli/Eli/13987
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg",CINE| A3 Series HD
+http://higherpro.xyz:8080/Eli/Eli/13933
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINE| CINEMAX 
+http://higherpro.xyz:8080/Eli/Eli/13769
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/5nd7bZP/CINEMAXACTION.jpg",CINE| Cinemax Action HD
+http://higherpro.xyz:8080/Eli/Eli/13766
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg",CINE| Cinemax East HD
+http://higherpro.xyz:8080/Eli/Eli/13764
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg",CINE| Cinemax FHD
+http://higherpro.xyz:8080/Eli/Eli/13765
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINE| CINEMAX HD
+http://higherpro.xyz:8080/Eli/Eli/13767
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/y07LGs1/DEPELICULA.jpg",CINE| DE PELICULA
+http://higherpro.xyz:8080/Eli/Eli/13832
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/Q8tsvCQ/DEPELICULACLASICO.jpg",CINE| DE PELICULA CLASICO
+http://higherpro.xyz:8080/Eli/Eli/13833
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/C1h4VXV/DEPELICULAPLUS.jpg",CINE| DE PELICULA PLUS
+http://higherpro.xyz:8080/Eli/Eli/13831
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg",CINE| EURO CHANNEL
+http://higherpro.xyz:8080/Eli/Eli/13825
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg",CINE| EURO CHANNEL
+http://higherpro.xyz:8080/Eli/Eli/13826
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg",CINE| EURO CHANNEL
+http://higherpro.xyz:8080/Eli/Eli/13827
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg",CINE| EUROPA EUROPA
+http://higherpro.xyz:8080/Eli/Eli/13828
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg",CINE| Europa Europa
+http://higherpro.xyz:8080/Eli/Eli/13829
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/M9tCXd1/INDIEPLEX.jpg",CINE| INDIE PLEX HD
+http://higherpro.xyz:8080/Eli/Eli/13763
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/FKTb7Lf/MOVIEMAX.jpg",CINE| OuterMax HD
+http://higherpro.xyz:8080/Eli/Eli/13759
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",CINE| PARAMOUNT
+http://higherpro.xyz:8080/Eli/Eli/13814
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",CINE| Paramount Channel
+http://higherpro.xyz:8080/Eli/Eli/13816
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",CINE| Paramount Channel HD
+http://higherpro.xyz:8080/Eli/Eli/13815
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",CINE| PARAMOUNT NETWORK
+http://higherpro.xyz:8080/Eli/Eli/13818
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",CINE| Paramount Network HD
+http://higherpro.xyz:8080/Eli/Eli/13817
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/D8Kkz3d/SHOWTIMEEAST.jpg",CINE| Showtime East HD
+http://higherpro.xyz:8080/Eli/Eli/13757
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/cT3Pf4w/SHOWTIME.jpg",CINE| Showtime HD
+http://higherpro.xyz:8080/Eli/Eli/13756
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/9nJLHQD/SHOWTIMEWEST.jpg",CINE| Showtime West HD
+http://higherpro.xyz:8080/Eli/Eli/13755
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",CINE| Sony
+http://higherpro.xyz:8080/Eli/Eli/13810
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",CINE| Sony HD
+http://higherpro.xyz:8080/Eli/Eli/13808
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",CINE| Sony HD 
+http://higherpro.xyz:8080/Eli/Eli/13809
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",CINE| SPACE
+http://higherpro.xyz:8080/Eli/Eli/13778
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",CINE| Space
+http://higherpro.xyz:8080/Eli/Eli/13779
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",CINE| Space HD
+http://higherpro.xyz:8080/Eli/Eli/13780
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",CINE| Space HD
+http://higherpro.xyz:8080/Eli/Eli/13781
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="PPV STARZ",CINE| Starz Cinema HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13754
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="PPV STARZ",CINE| Starz Comedy HD
+http://higherpro.xyz:8080/Eli/Eli/13752
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="PPV STARZ",CINE| Starz East HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13751
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="PPV STARZ",CINE| Starz Edge HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13750
+#EXTINF:-1 group-title="Español" tvg-logo="https://1.bp.blogspot.com/-VoIB30k-IWQ/Uqkju9h-NWI/AAAAAAAAdCk/gnQoEHszfoA/s1600/Encore+logo+2013.png" group-title="PPV STARZ",CINE| Starz Encore Black HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13748
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="PPV STARZ",CINE| Starz Encore Classic HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13747
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="PPV STARZ",CINE| Starz Encore Family HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13745
+#EXTINF:-1 group-title="Español" tvg-logo="https://1.bp.blogspot.com/-VoIB30k-IWQ/Uqkju9h-NWI/AAAAAAAAdCk/gnQoEHszfoA/s1600/Encore+logo+2013.png" group-title="PPV STARZ",CINE| Starz Encore HD
+http://higherpro.xyz:8080/Eli/Eli/13744
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="PPV STARZ",CINE| Starz Encore Suspense HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13743
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="PPV STARZ",CINE| Starz Encore Western HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13742
+#EXTINF:-1 group-title="Español" tvg-logo="https://www.gravesat.com/img/upload/starz-logo.png" group-title="PPV STARZ",CINE| Starz HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13741
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="PPV STARZ",CINE| Starz West HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13739
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",CINE| Studio Universal
+http://higherpro.xyz:8080/Eli/Eli/13783
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",CINE| Studio Universal HD
+http://higherpro.xyz:8080/Eli/Eli/13782
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",CINE| Studio Universal HD
+http://higherpro.xyz:8080/Eli/Eli/13784
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",CINE| Studio Universal HD
+http://higherpro.xyz:8080/Eli/Eli/13785
+#EXTINF:-1 group-title="Español" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo-2002-720x480.png",CINE| Syfy
+http://higherpro.xyz:8080/Eli/Eli/13770
+#EXTINF:-1 group-title="Español" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo-2002-720x480.png",CINE| Syfy
+http://higherpro.xyz:8080/Eli/Eli/13773
+#EXTINF:-1 group-title="Español" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo-2002-720x480.png",CINE| SyFy HD
+http://higherpro.xyz:8080/Eli/Eli/13771
+#EXTINF:-1 group-title="Español" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo-2002-720x480.png",CINE| Syfy HD
+http://higherpro.xyz:8080/Eli/Eli/13772
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m9R16xG/TBS.jpg",CINE| TBS
+http://higherpro.xyz:8080/Eli/Eli/13789
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m9R16xG/TBS.jpg",CINE| TBS
+http://higherpro.xyz:8080/Eli/Eli/13791
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m9R16xG/TBS.jpg",CINE| TBS HD
+http://higherpro.xyz:8080/Eli/Eli/13792
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",CINE| TCM
+http://higherpro.xyz:8080/Eli/Eli/13786
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",CINE| TCM
+http://higherpro.xyz:8080/Eli/Eli/13787
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",CINE| TCM
+http://higherpro.xyz:8080/Eli/Eli/13788
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",CINE| Universal Channel
+http://higherpro.xyz:8080/Eli/Eli/13813
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",CINE| Universal Channel HD
+http://higherpro.xyz:8080/Eli/Eli/13811
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",CINE| Universal Channel HD
+http://higherpro.xyz:8080/Eli/Eli/13812
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",CINE| Warner Channel
+http://higherpro.xyz:8080/Eli/Eli/13774
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",CINE| Warner Channel
+http://higherpro.xyz:8080/Eli/Eli/13775
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",CINE| Warner Channel HD
+http://higherpro.xyz:8080/Eli/Eli/13776
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",CINE| Warner Channel HD
+http://higherpro.xyz:8080/Eli/Eli/13777
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/Hnz73Y5/RETROPLEX.jpg",CINE|RetroPlex HD
+http://higherpro.xyz:8080/Eli/Eli/13824
+#EXTINF:-1 group-title="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png",CIN| I-SAT 
+http://higherpro.xyz:8080/Eli/Eli/10314
+#EXTINF:-1 group-title="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png",CIN| I-SAT MX.
+http://higherpro.xyz:8080/Eli/Eli/10315
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/1c961811ad68433fe9403cff3b2da4e5.png",A&E
 http://tvstarlife.com:25461/live/Marco01/Marco01/92.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/d253d5fcf6425bee5bdbc2c2d83f9b04.png",CINELATINO
@@ -1081,90 +1385,60 @@ http://fortv.cc:8080/12345/56789/46214
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:SHOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ShowtimeFamilyZone.us.png",SHOWTIME 2 WEST
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-extreme.jpg",Showtime Extreme (East)
-http://fortv.cc:8080/12345/56789/13220
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-extreme.jpg",Showtime Extreme (West)
-https://is.gd/86m3t8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1200px-Showtime_Family_Zone.svg.png",Showtime Family Zone (East)
-http://fortv.cc:8080/12345/56789/13481
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1200px-Showtime_Family_Zone.svg.png",Showtime Family Zone (West)
-https://is.gd/67XiSR
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-next.jpg",Showtime Next (East)
-https://is.gd/vzyYtT
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-next.jpg",Showtime Next (West)
-https://is.gd/Ts0jhm
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",Showtime Showcase (East)
-https://is.gd/YBAvXS
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",Showtime Showcase (West)
-https://is.gd/eZSTK6
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png",Showtime Women (East)
-http://fortv.cc:8080/12345/56789/17778
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png",Showtime Women (West)
-https://is.gd/XkrST4
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",Starz (East)
-http://fortv.cc:8080/12345/56789/9299
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",Starz (West)
-http://fortv.cc:8080/12345/56789/21091
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Comedy_200.jpg",STARZ COMEDY
-https://is.gd/Sj0gKx
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Comedy_200.jpg",STARZ COMEDY (WEST)
-https://is.gd/T9fk4v
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",Starz Cinema (East)
-http://fortv.cc:8080/12345/56789/17775
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",Starz Cinema (West)
-https://is.gd/jqVAtI
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-black.png",Starz in Black (East)
-http://fortv.cc:8080/12345/56789/17779
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-black.png",Starz in Black (West)
-https://is.gd/ipQoKT
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",Starz Kids Family (West)
-http://edge.bz:8080/reg/reg/56054
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-edge.png",Starz Edge (East)
-https://is.gd/4mbDai
-http://edge.bz:8080/reg/reg/849
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-edge.png",Starz Edge (West)
-https://is.gd/bRJsDb
-http://edge.bz:8080/reg/reg/56062
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-encore.png",Starz Encore (East)
-https://is.gd/cGvU1y
-http://edge.bz:8080/reg/reg/850
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-encore.png",Starz Encore (West)
-https://is.gd/MNirtH
-http://edge.bz:8080/reg/reg/56063
-#EXTINF:-1 group-title="WESTERN" tvg-logo="http://edgecdn.io:8080/img/starz-encore-westerns.png",Starz Encore (West)erns (East)
-http://fortv.cc:8080/12345/56789/16263
-#EXTINF:-1 group-title="WESTERN" tvg-logo="http://edgecdn.io:8080/img/starz-encore-westerns.png",Starz Encore (West)erns (West)
-https://is.gd/gbQvxe
-http://edge.bz:8080/reg/reg/56069
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreaction.png",Starz Encore Action (East)
-https://is.gd/uzsX7u
-http://edge.bz:8080/reg/reg/3273
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreaction.png",Starz Encore Action (West)
-http://edge.bz:8080/reg/reg/56064
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreblack.png",Starz Encore Black (East)
-https://is.gd/3PBPbC
-http://edge.bz:8080/reg/reg/3274
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreblack.png",Starz Encore Black (West)
-https://is.gd/jTclu7
-http://edge.bz:8080/reg/reg/56065
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreclassic.png",Starz Encore Classic (East)
-https://is.gd/Qe1ZZf
-http://edge.bz:8080/reg/reg/3275
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreclassic.png",Starz Encore Classic (West)
-https://is.gd/NZr2kz
-http://edge.bz:8080/reg/reg/56066
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencorefamily.png",Starz Encore Family (East)
-https://is.gd/ty1piB
-http://edge.bz:8080/reg/reg/3276
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencorefamily.png",Starz Encore Family (West)
-https://is.gd/J9bdvL
-http://edge.bz:8080/reg/reg/56067
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoresuspense.png",Starz Encore Suspense (East)
-https://is.gd/nMQWTT
-http://edge.bz:8080/reg/reg/3277
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoresuspense.png",Starz Encore Suspense (West)
-https://is.gd/fUW6Lf
-http://edge.bz:8080/reg/reg/56068
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/SHOWTIME-HD.png",SHOWTIME HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45503
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/SHOWTIME-EAST-HD.png",SHOWTIME EAST HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45504
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/SHOWTIME-BEYOND-HD.png",SHOWTIME WEST HD
+http://line.premiumpowers.net:80/Richard23/Richard23/92020
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/SHOWTIME-2-HD.jpeg",SHOWTIME 2 HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45505
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/SHOWTIME-EXTREME-HD.jpg",SHOWTIME EXTREME HD
+http://line.premiumpowers.net:80/Richard23/Richard23/91887
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/SHOWTIME-FAMILY-ZONE-HD.jpg",SHOWTIME FAMILY ZONE HD
+http://line.premiumpowers.net:80/Richard23/Richard23/91888
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/SHOWTIME-NEXT-HD.png",SHOWTIME NEXT HD
+http://line.premiumpowers.net:80/Richard23/Richard23/92019
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/SHOWTIME-SHOWCASE-HD.png",SHOWTIME SHOWCASE HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45502
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/SHOWTIME-WOMEN-HD.jpg",SHOWTIME WOMEN HD
+http://line.premiumpowers.net:80/Richard23/Richard23/92018
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/starz.png",STARZ EAST HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45493
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/starz.png",STARZ WEST HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45478
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/starz.png",STARZ HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45480
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZ-CINEMA-HD.png",STARZ CINEMA HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45496
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZ-CINEMA-HD.png",STARZ CINEMA EAST HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45497
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZ-BLACK-HD.png",STARZ BLACK HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45498
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZ-EDGE-HD.jpeg",STARZ EDGE HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45492
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZ-FAMILY-HD.jpeg",STARZ FAMILY HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45481
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZ-CINEMA-HD.png",STARZ COMEDY HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45494
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZ-ENCORE-ACTION-HD.png",STARZ ENCORE ACTION HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45489
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZ-ENCORE-BLACK-HD.jpg",STARZ ENCORE BLACK HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45488
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZ-ENCORE-CLASSIC-HD.png",STARZ ENCORE CLASSIC HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45487
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZ-ENCORE-HD.png",STARZ ENCORE EAST HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45486
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZ-FAMILY-HD.jpeg",STARZ ENCORE FAMILY HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45485
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZ-ENCORE-HD.png",STARZ ENCORE HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45484
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZENCORE-HD.jpeg",STARZ ENCORE SUSPENSE HD
+http://line.premiumpowers.net:80/Richard23/Richard23/91948
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZENCORE-HD.jpeg",STARZ ENCORE WESTERNS HD
+http://line.premiumpowers.net:80/Richard23/Richard23/91947
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZ-ENCORE-WEST-HD.png",STARZ ENCORE WEST HD
+http://line.premiumpowers.net:80/Richard23/Richard23/45482
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA ACTION
 https://is.gd/2IT4dX
 http://fortv.cc:8080/12345/56789/35254
@@ -1862,374 +2136,6 @@ http://streamgo.vip:8008/live/criss/criss/150401.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/e1ae849b31bb146485b11ed0c53f1c73.png",US: EPIX
 http://streamgo.vip:8008/live/criss/criss/150402.m3u8
 
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://whoatv.com/wp-content/uploads/2014/08/TV3-logo.png",3E Ireland
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428343.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://clipground.com/images/channel-4-logo-png-12.png",4 Seven
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428345.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://clipground.com/images/channel-4-logo-png-12.png",4 Seven SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428346.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/1200px-4Music_logo_2018.svg.png",4Music
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428493.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/1200px-4Music_logo_2018.svg.png",4Music SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428494.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://1.bp.blogspot.com/-pLeysfuqEFY/TWFV7Sy-RAI/AAAAAAAAAO8/6s5RwNhc_Lc/s1600/Channel_5_logo_2011_pre-launch.png",5 Select
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428347.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://1.bp.blogspot.com/-pLeysfuqEFY/TWFV7Sy-RAI/AAAAAAAAAO8/6s5RwNhc_Lc/s1600/Channel_5_logo_2011_pre-launch.png",5 Select SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428348.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Channel_5_Star.svg/1280px-Channel_5_Star.svg.png",5 Star
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428349.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Channel_5_Star.svg/1280px-Channel_5_Star.svg.png",5 Star +1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428350.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Channel_5_Star.svg/1280px-Channel_5_Star.svg.png",5 Star SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428351.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png",5 USA
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428352.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png",5 USA +1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428353.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png",5 USA SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428354.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Alibi-logo-2015.png",Alibi
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428355.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Alibi-logo-2015.png",Alibi +1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428356.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://fanc.tmsimg.com/assets/s10021_ll_h3_ab.png",AMC
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428358.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://www.pinclipart.com/picdir/big/63-634870_bbc-alba-bbc-alba-logo-clipart.png",BBC Alba
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428360.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://www.pinclipart.com/picdir/big/63-634870_bbc-alba-bbc-alba-logo-clipart.png",BBC Alba SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428361.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://tvhighlights.bradfordzone.co.uk/wp-content/uploads/sites/4/2018/11/BBC-Four-Logo.png",BBC Four
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428372.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://up.metropol247.co.uk/Maarten1/bbc-one_2.png",BBC One
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428366.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2072.png",BBC Parliament
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428362.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2072.png",BBC Parliament SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428363.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1138.png",BBC Scotland
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428364.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/42/2015/06/1280px-BBC_Three.svg_.png",BBC Three
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428370.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://www2.hoolatv.com/sites/default/files/channels/bbctwo.png",BBC Two
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428368.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d1/CBS_Drama_Logo.png",REALITYXTRA
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428374.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d1/CBS_Drama_Logo.png",REALITYXTRA SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428375.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/CBS_Justice_2018.svg/640px-CBS_Justice_2018.svg.png",LEGEND
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428376.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/CBS_Justice_2018.svg/640px-CBS_Justice_2018.svg.png",LEGEND SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428377.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/CBS_Reality_logo.png",CBS Reality
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428378.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/CBS_Reality_logo.png",CBS Reality +1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428379.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/CBS_Reality_logo.png",CBS Reality SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428380.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://3.bp.blogspot.com/-acqsXgpPBdI/ToiKaAB-P_I/AAAAAAAACO0/bm2mekMwCpU/s1600/Challenge+logo+2008.png",Challenge
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428381.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://3.bp.blogspot.com/-acqsXgpPBdI/ToiKaAB-P_I/AAAAAAAACO0/bm2mekMwCpU/s1600/Challenge+logo+2008.png",Challenge SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428382.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Channel-4-Logo-1982-1996.png",Channel 4
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428383.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Channel-4-Logo-1982-1996.png",Channel 4 +1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428384.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.onadvertising.co.uk%2Fimages%2Fchannel-5-tv-logo.png",Channel 5
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428386.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.onadvertising.co.uk%2Fimages%2Fchannel-5-tv-logo.png",Channel 5 +1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428387.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://www.music.lt/images/groups/10/9633/Clubland_/pic34.png",Clubland TV
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428509.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://i.ibb.co/LrvwJpz/comedy-central-c.png",Comedy Central
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428389.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/a2/Comedy_Central_Extra_Logo_2019.svg/320px-Comedy_Central_Extra_Logo_2019.svg.png",Comedy Central Extra
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428391.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/a2/Comedy_Central_Extra_Logo_2019.svg/320px-Comedy_Central_Extra_Logo_2019.svg.png",Comedy Central Extra SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428392.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/39/USBA34000049Z_20210525T051457.png",Court TV
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428393.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/39/USBA34000049Z_20210525T051457.png",Court TV SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428394.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://thecraftstoreblog.com/wp-content/uploads/2021/04/New_Google-Logo_300_height.png",Craft Store
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428395.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Dave-designstyle-summer-m.png",Dave
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428397.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://img1.wikia.nocookie.net/__cb20130505222318/logopedia/images/7/7f/UKTV_logo_2013.png",Dave Ja Vu
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428399.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://img1.wikia.nocookie.net/__cb20130505222318/logopedia/images/7/7f/UKTV_logo_2013.png",Dave Ja Vu SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428400.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://www.cercaofficina.it/img/pages/logo_dmax.png",DMAX
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428401.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://www.cercaofficina.it/img/pages/logo_dmax.png",DMAX +1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428402.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://www.cercaofficina.it/img/pages/logo_dmax.png",DMAX SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428403.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://i.postimg.cc/3J1M4tch/UKTV-Drama.png",Drama
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428404.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://i.postimg.cc/3J1M4tch/UKTV-Drama.png",Drama SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428406.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/150px-E!_Logo.svg.png",E! Entertainment
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428407.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1200px-E4_%28channel%29_logo.svg.png",E4
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428410.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png",Food Network
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428413.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png",Food Network SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428414.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Gems_TV_2008_logo.png/300px-Gems_TV_2008_logo.png",Gems TV
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428415.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1200px-Gold_2014.svg.png",GOLD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428416.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://www.custom-gateway.de/wp-content/uploads//2019/12/Ideal-World-Portfolio-Logo.png",Ideal World TV
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428421.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png",ITV 1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428422.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png",ITV 1 +1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428423.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ITV2_logo_%282006-2008%29.svg/1280px-ITV2_logo_%282006-2008%29.svg.png",ITV 2
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428425.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ITV2_logo_%282006-2008%29.svg/1280px-ITV2_logo_%282006-2008%29.svg.png",ITV 2 +1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428426.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png",ITV 3
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428428.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png",ITV 3 +1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428429.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/1200px-ITV4.svg.png",ITV 4
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428431.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/1200px-ITV4.svg.png",ITV 4 +1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428432.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/ITVBe_logo_2014-.svg/1200px-ITVBe_logo_2014-.svg.png",ITV Be
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428434.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/Jewelry-Television.png",Jewelery Maker
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428436.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1618315029/brand_manager/stations/aci2ljh6tpzptbvizfxi.png",Kiss TV
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428495.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png",Lifetime
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428437.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://static.standard.co.uk/s3fs-public/thumbnails/image/2013/12/17/16/logo-orange.png",London Live
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428440.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://static.standard.co.uk/s3fs-public/thumbnails/image/2013/12/17/16/logo-orange.png",London Live SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428441.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/Magic_TV_Logo.png",Magic TV
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428497.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1200px-More4_logo_2018.svg.png",More 4
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428442.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1200px-More4_logo_2018.svg.png",More 4 +1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428443.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MTV-emblem.png",MTV
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428446.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MTV_Base_2013_logo.svg/1200px-MTV_Base_2013_logo.svg.png",MTV Base
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428499.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png",MTV Classic
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428501.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MTV-emblem.png",MTV HD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428447.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MTV_Hits_2013_logo.svg/1200px-MTV_Hits_2013_logo.svg.png",MTV Hits
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428503.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://www.pikpng.com/pngl/b/20-200544_80s-png.png",MTV Music
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428507.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/MTV_Rocks.svg/120px-MTV_Rocks.svg.png",MTV Rocks
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428505.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pick%27s_new_logo.png",Pick TV
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428448.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pick%27s_new_logo.png",Pick TV SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428449.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/1200px-Quest_logo_2014.svg.png",Quest
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428450.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Quest_Red.png",Quest Red +1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428452.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Quest_Red.png",Quest Red SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428453.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png",QVC
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428454.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/QVC_Beauty.svg/1200px-QVC_Beauty.svg.png",QVC Beauty
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428455.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/QVC_Beauty.svg/1200px-QVC_Beauty.svg.png",QVC Beauty SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428456.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/1200px-QVC_Logo.svg.png",QVC Extra
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428457.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/1200px-QVC_Logo.svg.png",QVC Extra SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428458.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png",QVC SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428459.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/440px-QVC_logo_2019.svg.png",QVC Style
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428460.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/440px-QVC_logo_2019.svg.png",QVC Style SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428461.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/2000px-Really_Circle_Logo_%282013%29_svg.png",Really SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428462.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1200px-S4C_logo_2014.svg.png",S4C
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428463.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/Sky_Arts_2015.png",Sky Arts
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428465.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sky_Atlantic_-_Logo_2015.svg/1280px-Sky_Atlantic_-_Logo_2015.svg.png",Sky Atlantic
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428467.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Sky_Crime_logo_2019.svg/1280px-Sky_Crime_logo_2019.svg.png",Sky Crime
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428469.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sky_Max_2021.svg/220px-Sky_Max_2021.svg.png",Sky Max
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428473.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://globetrottertv.com/wp-content/uploads/2018/03/Showcase-Logo-1920-e1522524476955.jpg",Sky Showcase
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428471.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sky_Witness_-_Logo_2018.svg/1200px-Sky_Witness_-_Logo_2018.svg.png",Sky Witness
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428475.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TJC_New_Logo.jpg/440px-TJC_New_Logo.jpg",TJC
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428480.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png",TLC
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428481.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://i.pinimg.com/originals/60/7c/ca/607cca9376d7ce16b0693c426d387954.png",Travel Channel
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428483.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://i.pinimg.com/originals/60/7c/ca/607cca9376d7ce16b0693c426d387954.png",Travel Channel SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428484.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Viva_%28UK_%26_Ireland%29.svg/1200px-Viva_%28UK_%26_Ireland%29.svg.png",Viva
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428485.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/W_%28UKTV%29_2022.svg/400px-W_%28UKTV%29_2022.svg.png",Watch
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428486.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5385/full-569x318/56701ba7/lead_image_3_0.png",Yesterday
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428489.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5385/full-569x318/56701ba7/lead_image_3_0.png",Yesterday SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428490.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png",UK: Animal Planet
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428128.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41tKMKrOAaL.png",Blaze TV
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428131.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41tKMKrOAaL.png",Blaze TV SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428132.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428133.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428134.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://thumborcdn.acast.com/3OIcgPPJ3d0TxXY6pylST7nHWiA=/1500x1500/https://mediacdn.acast.com/assets/afceb62a-3487-4c96-b760-72421fdf7891/-jrosbpfb-insidecrimeinvestigation.png",Crime & Investigation
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428135.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo_colored.png",Discovery Channel
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428137.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo_colored.png",Discovery Channel SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428138.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://i.postimg.cc/ZRLk8j56/e4c9449a6ad0ee4f90aaa05d0b94263b.png",Discovery History
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428139.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://i.postimg.cc/ZRLk8j56/e4c9449a6ad0ee4f90aaa05d0b94263b.png",Discovery History SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428140.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/Discovery_Science_%282011%29_%28Stacked%29.png",Discovery Science
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428141.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/Discovery_Science_%282011%29_%28Stacked%29.png",Discovery Science SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428142.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/discovery-turbo-hd.png",Discovery Turbo
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428143.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/discovery-turbo-hd.png",Discovery Turbo SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428144.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://img.favpng.com/2/4/23/eden-television-channel-uktv-home-png-favpng-XH4kQ2wm8M9fYnuUSdn0TiyXx.jpg",Eden
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428491.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://img1.wikia.nocookie.net/__cb20130505222318/logopedia/images/7/7f/UKTV_logo_2013.png",GOD TV
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428165.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428145.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/220px-History2Logo2019.png",History 2
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428148.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/0/07/Investigation_Discovery_HD_2016.png/revision/latest?cb=20160707223518",Investigation Discovery
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428151.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/0/07/Investigation_Discovery_HD_2016.png/revision/latest?cb=20160707223518",Investigation Discovery SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428152.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://www.thewebbureau.com/media/1347/love-nature-3.png",Love Nature
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428153.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png",Nat Geo Wild
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428155.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png",National Geographic
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428158.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/6/6d/Sky_Documentaries_Generic_ID_2020.png",Sky Documentaries
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428161.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blta20d8a6ff8af7f17/5edfe08b444d25730a19f22a/Sky_Nature_PRIMARY_RGB.png",Sky Nature
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428163.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png"UK KIDS",Baby TV
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428197.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png"UK KIDS",Baby TV SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428198.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428199.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428200.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428201.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png",Cartoonito
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428203.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png",Cartoonito SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428204.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/640/1x/cbbc/cbbc-logo-onward-journey.png",CBBC
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428205.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",CBeebies
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428207.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/CITV_logo_2013.svg/1200px-CITV_logo_2013.svg.png",CITV
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428209.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/CITV_logo_2013.svg/1200px-CITV_logo_2013.svg.png",CITV SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428210.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",Nick Jr
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428217.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",Nick Jr SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428218.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://logos-download.com/wp-content/uploads/2016/04/Nickelodeon_logo_logotype_2.png",Nickelodeon
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428219.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/2/21/Original_Nicktoons_logo.png",Nicktoons
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428221.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/2/21/Original_Nicktoons_logo.png",Nicktoons SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428222.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Pop_logo_red_it_0.png",POP
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428223.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pop-max-logo.png/220px-Pop-max-logo.png",POP Max
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428225.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pop-max-logo.png/220px-Pop-max-logo.png",POP Max SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428226.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Pop_logo_red_it_0.png",POP SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428224.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/New_Tiny_Pop_Logo_2018.png",Tiny POP
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428227.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/New_Tiny_Pop_Logo_2018.png",Tiny POP SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428228.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/220px-Film4_logo_2018.svg.png",Film 4 +1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428412.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://www.horrorchannel.co.uk/grfx/stuff/horror-channel-logo.png",HORROR XTRA
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428418.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://www.horrorchannel.co.uk/grfx/stuff/horror-channel-logo.png",HORROR XTRA +1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428419.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://www.horrorchannel.co.uk/grfx/stuff/horror-channel-logo.png",HORROW XTRA SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428420.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png",Sky Cinema Action & Adventure
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428166.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png",Sky Cinema Animation
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428172.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png",Sky Cinema Comedy
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428168.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png",Sky Cinema Crime & Thriller
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428170.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png",Sky Cinema Drama & Romance
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428174.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png",Sky Cinema Family
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428176.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png",Sky Cinema Greats
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428178.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png",Sky Cinema Hits
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428180.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png",Sky Cinema Premiere
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428182.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png",Sky Cinema Sci-Fi & Horror
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428184.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png",Sky Cinema Select
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428186.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png",Sky Store 1
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428192.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png",Sky Store 2
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428193.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png",Sky Store 3
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428194.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png",Sky Store 4
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428195.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png",Sky Store PREORDER
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428196.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Movies Action
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428188.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Movies Action SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428189.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Movies Channel
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428190.m3u8
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Movies Channel SD
-http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428191.m3u8
 #EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://n2086.securepoint.io:25461/images/9d8248813d68c041253a2079dc1bca2f.png",4SEVEN
 http://n2086.securepoint.io:25461/carolyn/carolyn/53828
 #EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://n2086.securepoint.io:25461/images/0ea4397b45b3f53470508b0e91efa72b.png",5 ACTION
@@ -2751,194 +2657,6 @@ http://fortv.cc:8080/live/Jose69/Jose69/119435.m3u8
 http://fortv.cc:8080/live/Jose69/Jose69/119436.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: THRILLER
 http://fortv.cc:8080/live/Jose69/Jose69/119437.m3u8
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Paramount+ Picks
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146707
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Showtime Selects
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146708
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",TV Land Drama
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146709
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Stories by AMC
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146710
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",90210
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146711
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Baywatch
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146713
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Star Trek
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146717
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",British Drama
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146719
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Best of Dr. Phil
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146720
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Nosey
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146723
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Judge Nosey
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146724
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Price Is Right: The Barker Era
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146726
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",BUZZR
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146727
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Deal or No Deal
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146728
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Demand Africa
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146730
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",BET Her
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146732
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",ET Live
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146736
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",PeopleTV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146737
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Rescue 911
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146740
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",VH1 I Love Reality
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146741
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Love & Hip Hop
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146742
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",VH1 Hip Hop Family
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146743
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Black Ink Crew
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146744
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Dog the Bounty Hunter
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146745
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Spike Outdoors
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146747
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Skills + Thrills
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146748
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Bar Rescue
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146749
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Gordon Ramsay's Hell's Kitchen
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146750
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Ink Master
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146751
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Survivor
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146752
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Amazing Race
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146753
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Challenge
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146754
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Fear Factor
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146755
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",All Reality by WE tv
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146758
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Dallas Cowboy Cheerleaders
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146759
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",MTV Dating
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146761
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",People Are Awesome
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146762
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CSI
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146764
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Narcos
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146765
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",COPS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146767
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Forensic Files
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146768
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Cold Case Files
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146769
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The New Detectives
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146770
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Unsolved Mysteries
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146771
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Crime 360
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146772
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Midsomer Murders
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146773
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",BritBox Mysteries
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146774
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Court TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146775
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Funny AF
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146776
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",TV Land Sitcoms
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146777
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Slightly Off By IFC
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146779
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Kevin Hart’s LOL! Network
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146780
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Comedy Central Animation
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146782
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Stand-Up TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146783
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Tosh.0
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146785
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Wild 'N Out
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146786
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",MST3K
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146787
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",RiffTrax
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146788
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",AFV TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146790
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",FailArmy
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146791
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Classic TV Comedy
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146792
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Family Ties
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146793
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Happy Days
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146794
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Love Boat
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146796
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Andy Griffith Show
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146797
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Addams Family
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146798
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Beverly Hillbillies
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146799
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Johnny Carson TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146800
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Bob Ross Channel
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146802
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Julia Child
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146803
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Classic TV Drama
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146804
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Matlock
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146805
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Mission Impossible
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146806
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Western TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146807
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Gunsmoke
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146808
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Wanted: Dead or Alive
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146809
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Rifleman
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146810
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Doctor Who Classic
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146811
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Dark Shadows
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146812
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Classic Toons TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146814
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Food TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146815
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",America's Test Kitchen
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146816
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",BBC Food
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146817
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",BBC Home
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146818
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Dabl
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146820
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Lively Place
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146821
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Design Network
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146822
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",This Old House
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146823
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Tiny House Nation
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146824
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Cats 24/7
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146828
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Dogs 24/7
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146829
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Pet Collective
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146830
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Faith TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146831
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",TBN
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146832
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUB4lZghNnwQywKqgjIfJsyBqI2.jpg",24/7 3rd Rock from the Sun
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145586
 #EXTINF:-1 group-title="24/7" tvg-logo="http://un-pluggedtv.net:8080/images/848079c22cc3e2aa8afeaa7a66441dad.jpg",24/7 90 Day Fiancé
@@ -3666,7 +3384,7 @@ http://tvpanel.one:80/live/den9179/611carc/586825.m3u8
 http://ky-iptv.com:80/live/Jerry1234/Jerry1234/1116408.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.winudf.com/v2/image/Y29tLmxpdmVvbmxpbmVzZXJ2aWNlcy5tYXF0dl9pY29uXzBfNGY5ZjBjYTU/icon.png?w=170&fakeurl=1",MAQ TV
 http://208.86.19.13:81/517.stream/index.m3u8
-#EXTINF:-1  group-title="Sports" tvg-logo="http://is1.mzstatic.com/image/thumb/Purple111/v4/ee/e2/74/eee274ae-0f75-edb2-685a-c1b8996e9d4e/source/512x512bb.jpg",PTV Sports 2
+#EXTINF:-1  group-title="Sports" tvg-logo="http://is1.mzstatic.com/image/thumb/Purple111/v4/ee/e2/74/eee274ae-0f75-edb2-685a-c1b8996e9d4e/source/512x512bb.jpg",PTV Sports
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/490
 #EXTINF:-1 group-title="Sports" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png",STAR SPORTS 1 (4K).
 http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/98864.ts
@@ -4106,9 +3824,6 @@ https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/88454
 https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/88455
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/440px-BT_Sport_logo_2019.svg.png",UK: BT Sport 4 FHD 50FPS
 https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/88456
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",PREMIER SPORTS UK
-http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/6555/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",BT Sport 1 UK
 http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2505/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",BT Sport 2 UK
