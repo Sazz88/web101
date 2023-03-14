@@ -1,0 +1,2417 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",Bein Sports 1 Eng FHD
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483921&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",Bein Sports 2 Eng FHD
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483920&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",Bein Sports 3 Eng FHD
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483919&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",Bein Sports 1 Premium
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238261&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",Bein Sports 2 Premium
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238262&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",Bein Sports 3 Premium
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238263&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",Bein Sports 1 
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238265&extension=ts&play_token= 
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",Bein Sports 2
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238264&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",Bein Sports 3
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238266&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://archive.org/download/SkySportsMainEvent_201708/sky%20sports%20main%20event.png",Sky Sports Main Event 
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=83450&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png",Sky Sports Football
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=83452&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://archive.org/download/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png",Sky Sports PL
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=83447&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://archive.org/download/SkySportsMixNew_201708/sky%20sports%20mix%20new.png",Sky Sports Mix
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=83449&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzL4FravSsrRN1gJMIi0Wh6t-GbTEfh4lDjRrCCWcXdi2JmPlDJr48Uk7cXbhWeu8le9c&usqp=CAU",BT Sports 1
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=79486&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzL4FravSsrRN1gJMIi0Wh6t-GbTEfh4lDjRrCCWcXdi2JmPlDJr48Uk7cXbhWeu8le9c&usqp=CAU",BT Sports 2
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=79485&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzL4FravSsrRN1gJMIi0Wh6t-GbTEfh4lDjRrCCWcXdi2JmPlDJr48Uk7cXbhWeu8le9c&usqp=CAU",BT Sports 3
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=79484&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzL4FravSsrRN1gJMIi0Wh6t-GbTEfh4lDjRrCCWcXdi2JmPlDJr48Uk7cXbhWeu8le9c&usqp=CAU",BT Sports 4
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1002857&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F837%2Flaliga-tv-hd-1.png",Premier Sport LaLiaga
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=163610&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://www.gottabeethnic.co.uk/wp-content/uploads/2021/02/1280px-Premier_sports_logo_2018.svg.png",Premier Sports 1
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=45235&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://www.gottabeethnic.co.uk/wp-content/uploads/2021/02/1280px-Premier_sports_logo_2018.svg.png",Premier Sports 2
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=163608&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/FreeSportsLogo.jpg",Free Sports
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=546709&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",Hub Premier 1 FHD
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1032529&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/222-hub-premier-2.png",Hub Premier 2 FHD
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1032528&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/223-hub-premier-3.png",Hub Premier 3 FHD
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1032527&extension=ts&play_token= 
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/224-hub-premier-4.png",Hub Premier 4 FHD
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1032526&extension=ts&play_token= 
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png",SuperSports Football
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=239083&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png",SuperSports PL
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=239078&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-laliga.png",SuperSports LaLiga
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=239076&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/maximo-1.png",SuperSports Maximo
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=425666&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/s6b35j1629404341.png",SuperSports PSL
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=239077&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png",Astro Sports 1 UK
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918986&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png",Astro Sports 2 UK
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918985&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png",Astro Sports 3 UK
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918984&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png",Astro Sports 4 UK
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918983&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png",Astro Sports 5 UK
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918982&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png",Astro Sports 1 4K
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016544&extension=ts&play_token=
+#EXTINF:-1 group-title="28.12.23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png",Astro Sports 2 4K
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016545&extension=ts&play_token=
+
+#EXTINF:-1 group-title="Unlimited2",US| 5 STAR MAX FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92246.ts
+#EXTINF:-1 group-title="Unlimited2",US| A&E FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/176609.ts
+#EXTINF:-1 group-title="Unlimited2",US| ABC NEWS LIVE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/181247.ts
+#EXTINF:-1 group-title="Unlimited2",US| ACC Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92351.ts
+#EXTINF:-1 group-title="Unlimited2",US| AccuWeather FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/268010.ts
+#EXTINF:-1 group-title="Unlimited2",US| ActionMax East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92352.ts
+#EXTINF:-1 group-title="Unlimited2",US| ActionMax West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308588.ts
+#EXTINF:-1 group-title="Unlimited2",US| Al Jazeera FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/330300.ts
+#EXTINF:-1 group-title="Unlimited2",US| Altitude Sports HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/268012.ts
+#EXTINF:-1 group-title="Unlimited2",US| AMC FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92363.ts
+#EXTINF:-1 group-title="Unlimited2",US| AMC+ FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154269.ts
+#EXTINF:-1 group-title="Unlimited2",US| American Heroes Channel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92364.ts
+#EXTINF:-1 group-title="Unlimited2",US| Animal Planet FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92367.ts
+#EXTINF:-1 group-title="Unlimited2",US| Antena 3 Internacional FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440668.ts
+#EXTINF:-1 group-title="Unlimited2",US| Antenna TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92369.ts
+#EXTINF:-1 group-title="Unlimited2",US| ASPIRE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92374.ts
+#EXTINF:-1 group-title="Unlimited2",US| AT&T Sportsnet Pittsburgh HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/164684.ts
+#EXTINF:-1 group-title="Unlimited2",US| AT&T Sportsnet Rocky Mountain HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/301679.ts
+#EXTINF:-1 group-title="Unlimited2",US| AT&T Sportsnet Southwest HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/301680.ts
+#EXTINF:-1 group-title="Unlimited2",US| AWE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92376.ts
+#EXTINF:-1 group-title="Unlimited2",US| AXS FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92377.ts
+#EXTINF:-1 group-title="Unlimited2",US| BABY TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154091.ts
+#EXTINF:-1 group-title="Unlimited2",US| BALLY SPORTS ARIZONA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92850.ts
+#EXTINF:-1 group-title="Unlimited2",US| BALLY SPORTS ARIZONA PLUS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92868.ts
+#EXTINF:-1 group-title="Unlimited2",US| BALLY SPORTS CAROLINAS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92869.ts
+#EXTINF:-1 group-title="Unlimited2",US| BALLY SPORTS DETROIT HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/218692.ts
+#EXTINF:-1 group-title="Unlimited2",US| BALLY SPORTS DETROIT PLUS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/309471.ts
+#EXTINF:-1 group-title="Unlimited2",US| BALLY SPORTS FLORIDA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92852.ts
+#EXTINF:-1 group-title="Unlimited2",US| BALLY SPORTS GREAT LAKES HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92874.ts
+#EXTINF:-1 group-title="Unlimited2",US| BALLY SPORTS MIDWEST HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92853.ts
+#EXTINF:-1 group-title="Unlimited2",US| BALLY SPORTS OHIO HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92855.ts
+#EXTINF:-1 group-title="Unlimited2",US| BALLY SPORTS OKLAHOMA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92856.ts
+#EXTINF:-1 group-title="Unlimited2",US| BALLY SPORTS SAN DIEGO HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92858.ts
+#EXTINF:-1 group-title="Unlimited2",US| BALLY SPORTS SOUTH HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92860.ts
+#EXTINF:-1 group-title="Unlimited2",US| BALLY SPORTS SOUTHWEST HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440112.ts
+#EXTINF:-1 group-title="Unlimited2",US| BALLY SPORTS WEST HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/309619.ts
+#EXTINF:-1 group-title="Unlimited2",US| BALLY SPORTS WISCONSIN HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/299930.ts
+#EXTINF:-1 group-title="Unlimited2",US| Bandamax FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440669.ts
+#EXTINF:-1 group-title="Unlimited2",US| BBC America FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92380.ts
+#EXTINF:-1 group-title="Unlimited2",US| BBC WORLD NEWS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92381.ts
+#EXTINF:-1 group-title="Unlimited2",US| beIN Sports en Espanol FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/207722.ts
+#EXTINF:-1 group-title="Unlimited2",US| beIN Sports FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92390.ts
+#EXTINF:-1 group-title="Unlimited2",US| beIN Sports Xtra FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92388.ts
+#EXTINF:-1 group-title="Unlimited2",US| beIN XTRA en Español FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440671.ts
+#EXTINF:-1 group-title="Unlimited2",US| BET FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92393.ts
+#EXTINF:-1 group-title="Unlimited2",US| BET HER FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92394.ts
+#EXTINF:-1 group-title="Unlimited2",US| BET JAMS
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92395.ts
+#EXTINF:-1 group-title="Unlimited2",US| BET SOUL
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92396.ts
+#EXTINF:-1 group-title="Unlimited2",US| BET WEST FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258900.ts
+#EXTINF:-1 group-title="Unlimited2",US| Big Ten Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92415.ts
+#EXTINF:-1 group-title="Unlimited2",US| Billiard TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440696.ts
+#EXTINF:-1 group-title="Unlimited2",US| BLOOMBERG HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92399.ts
+#EXTINF:-1 group-title="Unlimited2",US| BNC FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/268007.ts
+#EXTINF:-1 group-title="Unlimited2",US| BOOMERANG FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92400.ts
+#EXTINF:-1 group-title="Unlimited2",US| Bounce FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92401.ts
+#EXTINF:-1 group-title="Unlimited2",US| Bravo FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92410.ts
+#EXTINF:-1 group-title="Unlimited2",US| Bravo West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258901.ts
+#EXTINF:-1 group-title="Unlimited2",US| BUZZR FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92416.ts
+#EXTINF:-1 group-title="Unlimited2",US| C-SPAN 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92417.ts
+#EXTINF:-1 group-title="Unlimited2",US| C-SPAN 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154132.ts
+#EXTINF:-1 group-title="Unlimited2",US| Cartoon Network FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154140.ts
+#EXTINF:-1 group-title="Unlimited2",US| CBS Hattiesburg WHLT
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308564.ts
+#EXTINF:-1 group-title="Unlimited2",US| CBS NEWS FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154176.ts
+#EXTINF:-1 group-title="Unlimited2",US| CBS Sports Network FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/149553.ts
+#EXTINF:-1 group-title="Unlimited2",US| CGTN FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/268135.ts
+#EXTINF:-1 group-title="Unlimited2",US| Charge! FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308323.ts
+#EXTINF:-1 group-title="Unlimited2",US| Cheddar Business FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154188.ts
+#EXTINF:-1 group-title="Unlimited2",US| Christian Youth Channel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154193.ts
+#EXTINF:-1 group-title="Unlimited2",US| Cine Latino FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440672.ts
+#EXTINF:-1 group-title="Unlimited2",US| Cine Mexicano FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440673.ts
+#EXTINF:-1 group-title="Unlimited2",US| CineMax East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92628.ts
+#EXTINF:-1 group-title="Unlimited2",US| CineMax Latino FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308590.ts
+#EXTINF:-1 group-title="Unlimited2",US| CineMax West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/265344.ts
+#EXTINF:-1 group-title="Unlimited2",US| CLEO TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/268013.ts
+#EXTINF:-1 group-title="Unlimited2",US| CMT FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92636.ts
+#EXTINF:-1 group-title="Unlimited2",US| CNA NEWS FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/269971.ts
+#EXTINF:-1 group-title="Unlimited2",US| CNBC FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/120048.ts
+#EXTINF:-1 group-title="Unlimited2",US| CNBC WORLD HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154225.ts
+#EXTINF:-1 group-title="Unlimited2",US| CNN en Español HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440674.ts
+#EXTINF:-1 group-title="Unlimited2",US| CNN FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154226.ts
+#EXTINF:-1 group-title="Unlimited2",US| Comedy Central FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92643.ts
+#EXTINF:-1 group-title="Unlimited2",US| ComedyTV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440665.ts
+#EXTINF:-1 group-title="Unlimited2",US| COMET FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92644.ts
+#EXTINF:-1 group-title="Unlimited2",US| Cooking Channel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92645.ts
+#EXTINF:-1 group-title="Unlimited2",US| COURT TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92646.ts
+#EXTINF:-1 group-title="Unlimited2",US| Cowboy Channel HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258904.ts
+#EXTINF:-1 group-title="Unlimited2",US| COZI TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92647.ts
+#EXTINF:-1 group-title="Unlimited2",US| Crime+ Investigation HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258905.ts
+#EXTINF:-1 group-title="Unlimited2",US| Dabl HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308646.ts
+#EXTINF:-1 group-title="Unlimited2",US| De Película Clásico FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440676.ts
+#EXTINF:-1 group-title="Unlimited2",US| De Película FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440675.ts
+#EXTINF:-1 group-title="Unlimited2",US| Destination America HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92656.ts
+#EXTINF:-1 group-title="Unlimited2",US| Discovery Channel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/176604.ts
+#EXTINF:-1 group-title="Unlimited2",US| Discovery en Español FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440677.ts
+#EXTINF:-1 group-title="Unlimited2",US| Discovery Familia FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440678.ts
+#EXTINF:-1 group-title="Unlimited2",US| Discovery Family HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92664.ts
+#EXTINF:-1 group-title="Unlimited2",US| Discovery Life HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92668.ts
+#EXTINF:-1 group-title="Unlimited2",US| Discovery Science HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92670.ts
+#EXTINF:-1 group-title="Unlimited2",US| Disney Channel HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92680.ts
+#EXTINF:-1 group-title="Unlimited2",US| Disney Junior HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92685.ts
+#EXTINF:-1 group-title="Unlimited2",US| Disney XD HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92691.ts
+#EXTINF:-1 group-title="Unlimited2",US| DOCURAMA FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/269979.ts
+#EXTINF:-1 group-title="Unlimited2",US| DOG TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/181311.ts
+#EXTINF:-1 group-title="Unlimited2",US| DUST TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/247313.ts
+#EXTINF:-1 group-title="Unlimited2",US| DW ENGLISH FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/299515.ts
+#EXTINF:-1 group-title="Unlimited2",US| E! Entertainment FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92700.ts
+#EXTINF:-1 group-title="Unlimited2",US| ESPN 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92713.ts
+#EXTINF:-1 group-title="Unlimited2",US| ESPN 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92715.ts
+#EXTINF:-1 group-title="Unlimited2",US| ESPN DEPORTES FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92719.ts
+#EXTINF:-1 group-title="Unlimited2",US| ESPN NEWS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92724.ts
+#EXTINF:-1 group-title="Unlimited2",US| ESPN U HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92729.ts
+#EXTINF:-1 group-title="Unlimited2",US| Estrella TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440680.ts
+#EXTINF:-1 group-title="Unlimited2",US| EURONEWS
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/267758.ts
+#EXTINF:-1 group-title="Unlimited2",US| FanDuel Racing HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93537.ts
+#EXTINF:-1 group-title="Unlimited2",US| FanDuel TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93538.ts
+#EXTINF:-1 group-title="Unlimited2",US| Fight Network FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92738.ts
+#EXTINF:-1 group-title="Unlimited2",US| Food Network FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92741.ts
+#EXTINF:-1 group-title="Unlimited2",US| FORO TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440681.ts
+#EXTINF:-1 group-title="Unlimited2",US| FOX Business Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92755.ts
+#EXTINF:-1 group-title="Unlimited2",US| FOX DEPORTES HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92870.ts
+#EXTINF:-1 group-title="Unlimited2",US| FOX LiveNOW HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/491885.ts
+#EXTINF:-1 group-title="Unlimited2",US| FOX NEWS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92834.ts
+#EXTINF:-1 group-title="Unlimited2",US| FOX SOCCER PLUS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92849.ts
+#EXTINF:-1 group-title="Unlimited2",US| FOX SOUL FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308644.ts
+#EXTINF:-1 group-title="Unlimited2",US| FOX SPORTS 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92865.ts
+#EXTINF:-1 group-title="Unlimited2",US| FOX SPORTS 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92866.ts
+#EXTINF:-1 group-title="Unlimited2",US| FOX WEATHER HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440244.ts
+#EXTINF:-1 group-title="Unlimited2",US| Free Speech TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92922.ts
+#EXTINF:-1 group-title="Unlimited2",US| FREEFORM HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/214031.ts
+#EXTINF:-1 group-title="Unlimited2",US| Fubo Sports Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92926.ts
+#EXTINF:-1 group-title="Unlimited2",US| Fuse FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92927.ts
+#EXTINF:-1 group-title="Unlimited2",US| FX HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92930.ts
+#EXTINF:-1 group-title="Unlimited2",US| FXM HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92932.ts
+#EXTINF:-1 group-title="Unlimited2",US| FXX HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92934.ts
+#EXTINF:-1 group-title="Unlimited2",US| FYI FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92935.ts
+#EXTINF:-1 group-title="Unlimited2",US| Galavision FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/146820.ts
+#EXTINF:-1 group-title="Unlimited2",US| Galavision Pacific HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94971.ts
+#EXTINF:-1 group-title="Unlimited2",US| GAME SHOW NETWORK FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92938.ts
+#EXTINF:-1 group-title="Unlimited2",US| GET TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258907.ts
+#EXTINF:-1 group-title="Unlimited2",US| GOL TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92941.ts
+#EXTINF:-1 group-title="Unlimited2",US| GOLF Channel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92942.ts
+#EXTINF:-1 group-title="Unlimited2",US| Great American Country FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258911.ts
+#EXTINF:-1 group-title="Unlimited2",US| GRIT FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154383.ts
+#EXTINF:-1 group-title="Unlimited2",US| Hallmark Channel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92949.ts
+#EXTINF:-1 group-title="Unlimited2",US| Hallmark Drama FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92950.ts
+#EXTINF:-1 group-title="Unlimited2",US| Hallmark Movies & Mysteries FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92952.ts
+#EXTINF:-1 group-title="Unlimited2",US| HBO 2 East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92957.ts
+#EXTINF:-1 group-title="Unlimited2",US| HBO 2 West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440236.ts
+#EXTINF:-1 group-title="Unlimited2",US| HBO Comedy East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92958.ts
+#EXTINF:-1 group-title="Unlimited2",US| HBO Comedy West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440237.ts
+#EXTINF:-1 group-title="Unlimited2",US| HBO EAST FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154395.ts
+#EXTINF:-1 group-title="Unlimited2",US| HBO Family East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92959.ts
+#EXTINF:-1 group-title="Unlimited2",US| HBO Family West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440238.ts
+#EXTINF:-1 group-title="Unlimited2",US| HBO Latino East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/268015.ts
+#EXTINF:-1 group-title="Unlimited2",US| HBO Latino West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440239.ts
+#EXTINF:-1 group-title="Unlimited2",US| HBO Signature East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92964.ts
+#EXTINF:-1 group-title="Unlimited2",US| HBO Signature West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440240.ts
+#EXTINF:-1 group-title="Unlimited2",US| HBO West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92960.ts
+#EXTINF:-1 group-title="Unlimited2",US| HBO Zone East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92965.ts
+#EXTINF:-1 group-title="Unlimited2",US| HBO Zone West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/304867.ts
+#EXTINF:-1 group-title="Unlimited2",US| HDNET Movies FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/191713.ts
+#EXTINF:-1 group-title="Unlimited2",US| HGTV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92969.ts
+#EXTINF:-1 group-title="Unlimited2",US| History Channel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92973.ts
+#EXTINF:-1 group-title="Unlimited2",US| HLN FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92976.ts
+#EXTINF:-1 group-title="Unlimited2",US| HSN 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92981.ts
+#EXTINF:-1 group-title="Unlimited2",US| IFC FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92984.ts
+#EXTINF:-1 group-title="Unlimited2",US| IMPACT Wrestling FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308643.ts
+#EXTINF:-1 group-title="Unlimited2",US| IndiePlex FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92987.ts
+#EXTINF:-1 group-title="Unlimited2",US| InfoWars HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/328775.ts
+#EXTINF:-1 group-title="Unlimited2",US| INSP HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92988.ts
+#EXTINF:-1 group-title="Unlimited2",US| Investigation Discovery FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154423.ts
+#EXTINF:-1 group-title="Unlimited2",US| ION TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92995.ts
+#EXTINF:-1 group-title="Unlimited2",US| JUSTICE CENTRAL FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92999.ts
+#EXTINF:-1 group-title="Unlimited2",US| LAFF TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258909.ts
+#EXTINF:-1 group-title="Unlimited2",US| Law & Crime FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/209312.ts
+#EXTINF:-1 group-title="Unlimited2",US| LIFETIME FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93024.ts
+#EXTINF:-1 group-title="Unlimited2",US| Lifetime Movie Network FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93027.ts
+#EXTINF:-1 group-title="Unlimited2",US| LOGO FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93028.ts
+#EXTINF:-1 group-title="Unlimited2",US| Longhorn Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93029.ts
+#EXTINF:-1 group-title="Unlimited2",US| Magnolia Network FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92695.ts
+#EXTINF:-1 group-title="Unlimited2",US| Marquee Sports FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/219474.ts
+#EXTINF:-1 group-title="Unlimited2",US| MavTV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93031.ts
+#EXTINF:-1 group-title="Unlimited2",US| MeTV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/209329.ts
+#EXTINF:-1 group-title="Unlimited2",US| MGM+ DRIVE-IN FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92709.ts
+#EXTINF:-1 group-title="Unlimited2",US| MGM+ EAST FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92710.ts
+#EXTINF:-1 group-title="Unlimited2",US| MGM+ HITS FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92708.ts
+#EXTINF:-1 group-title="Unlimited2",US| MGM+ MARQUEE FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92711.ts
+#EXTINF:-1 group-title="Unlimited2",US| MGM+ WEST FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440243.ts
+#EXTINF:-1 group-title="Unlimited2",US| MLB Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/164862.ts
+#EXTINF:-1 group-title="Unlimited2",US| MLB Strike Zone HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/220331.ts
+#EXTINF:-1 group-title="Unlimited2",US| MoreMax East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92630.ts
+#EXTINF:-1 group-title="Unlimited2",US| MoreMax West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308589.ts
+#EXTINF:-1 group-title="Unlimited2",US| MOTORTREND FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93038.ts
+#EXTINF:-1 group-title="Unlimited2",US| MovieMax FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92631.ts
+#EXTINF:-1 group-title="Unlimited2",US| MoviePlex HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93040.ts
+#EXTINF:-1 group-title="Unlimited2",US| MSG 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93041.ts
+#EXTINF:-1 group-title="Unlimited2",US| MSG FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93043.ts
+#EXTINF:-1 group-title="Unlimited2",US| MSNBC FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93045.ts
+#EXTINF:-1 group-title="Unlimited2",US| MTV CLASSIC HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93047.ts
+#EXTINF:-1 group-title="Unlimited2",US| MTV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93050.ts
+#EXTINF:-1 group-title="Unlimited2",US| MTV LIVE FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93052.ts
+#EXTINF:-1 group-title="Unlimited2",US| MTV U
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154495.ts
+#EXTINF:-1 group-title="Unlimited2",US| MTV2 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93046.ts
+#EXTINF:-1 group-title="Unlimited2",US| NASA TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258912.ts
+#EXTINF:-1 group-title="Unlimited2",US| NAT GEO HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93066.ts
+#EXTINF:-1 group-title="Unlimited2",US| Nat Geo Mundo FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440683.ts
+#EXTINF:-1 group-title="Unlimited2",US| NAT GEO WILD HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93070.ts
+#EXTINF:-1 group-title="Unlimited2",US| NBA TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93072.ts
+#EXTINF:-1 group-title="Unlimited2",US| NBA TV in 4K
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/495975.ts
+#EXTINF:-1 group-title="Unlimited2",US| NBC NEWS NOW
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/217943.ts
+#EXTINF:-1 group-title="Unlimited2",US| NBC Sports Bay Area FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93208.ts
+#EXTINF:-1 group-title="Unlimited2",US| NBC SPORTS BOSTON HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/220312.ts
+#EXTINF:-1 group-title="Unlimited2",US| NBC Sports California HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93210.ts
+#EXTINF:-1 group-title="Unlimited2",US| NBC Sports Chicago HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/263035.ts
+#EXTINF:-1 group-title="Unlimited2",US| NBC Sports Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93213.ts
+#EXTINF:-1 group-title="Unlimited2",US| NBC Sports Northwest HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/324195.ts
+#EXTINF:-1 group-title="Unlimited2",US| NBC Sports Philadelphia HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/149098.ts
+#EXTINF:-1 group-title="Unlimited2",US| NBC Sports Philadelphia Plus HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/324194.ts
+#EXTINF:-1 group-title="Unlimited2",US| NBC Sports Washington HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93216.ts
+#EXTINF:-1 group-title="Unlimited2",US| NBC Universo FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/293783.ts
+#EXTINF:-1 group-title="Unlimited2",US| NESN HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93321.ts
+#EXTINF:-1 group-title="Unlimited2",US| NESN Plus HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93322.ts
+#EXTINF:-1 group-title="Unlimited2",US| NEWS12 Westchester
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/281943.ts
+#EXTINF:-1 group-title="Unlimited2",US| NEWSMAX HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/95688.ts
+#EXTINF:-1 group-title="Unlimited2",US| NEWSNATION FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/268018.ts
+#EXTINF:-1 group-title="Unlimited2",US| NFL NETWORK FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/116233.ts
+#EXTINF:-1 group-title="Unlimited2",US| NFL REDZONE FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93331.ts
+#EXTINF:-1 group-title="Unlimited2",US| NHL NETWORK HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93332.ts
+#EXTINF:-1 group-title="Unlimited2",US| NICK JR FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93334.ts
+#EXTINF:-1 group-title="Unlimited2",US| Nick Music
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93338.ts
+#EXTINF:-1 group-title="Unlimited2",US| Nickelodeon HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93342.ts
+#EXTINF:-1 group-title="Unlimited2",US| NICKTOONS FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93340.ts
+#EXTINF:-1 group-title="Unlimited2",US| NTN24 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440684.ts
+#EXTINF:-1 group-title="Unlimited2",US| Nuestra Tele FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440685.ts
+#EXTINF:-1 group-title="Unlimited2",US| One America News HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93349.ts
+#EXTINF:-1 group-title="Unlimited2",US| Outdoor Channel HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93352.ts
+#EXTINF:-1 group-title="Unlimited2",US| OuterMax FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154217.ts
+#EXTINF:-1 group-title="Unlimited2",US| OUTSIDE TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93354.ts
+#EXTINF:-1 group-title="Unlimited2",US| OVATION FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258913.ts
+#EXTINF:-1 group-title="Unlimited2",US| OWN FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93355.ts
+#EXTINF:-1 group-title="Unlimited2",US| Oxygen True Crime FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93357.ts
+#EXTINF:-1 group-title="Unlimited2",US| PAC-12 Arizona HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93361.ts
+#EXTINF:-1 group-title="Unlimited2",US| PAC-12 Bay Area HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93362.ts
+#EXTINF:-1 group-title="Unlimited2",US| PAC-12 Los Angeles HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93363.ts
+#EXTINF:-1 group-title="Unlimited2",US| PAC-12 Mountain FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93364.ts
+#EXTINF:-1 group-title="Unlimited2",US| PAC-12 Oregon HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93366.ts
+#EXTINF:-1 group-title="Unlimited2",US| PAC-12 Washington FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93360.ts
+#EXTINF:-1 group-title="Unlimited2",US| Paramount Network FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93368.ts
+#EXTINF:-1 group-title="Unlimited2",US| Pasiones FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440686.ts
+#EXTINF:-1 group-title="Unlimited2",US| PBS KIDS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93373.ts
+#EXTINF:-1 group-title="Unlimited2",US| PEOPLE TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93374.ts
+#EXTINF:-1 group-title="Unlimited2",US| Players TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/302023.ts
+#EXTINF:-1 group-title="Unlimited2",US| PokerGO+ FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440697.ts
+#EXTINF:-1 group-title="Unlimited2",US| POP TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93377.ts
+#EXTINF:-1 group-title="Unlimited2",US| Pursuit Channel HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93381.ts
+#EXTINF:-1 group-title="Unlimited2",US| QVC FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/218155.ts
+#EXTINF:-1 group-title="Unlimited2",US| REELZ HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93388.ts
+#EXTINF:-1 group-title="Unlimited2",US| RetroPlex HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93392.ts
+#EXTINF:-1 group-title="Unlimited2",US| REVOLT FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93394.ts
+#EXTINF:-1 group-title="Unlimited2",US| RFD TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93395.ts
+#EXTINF:-1 group-title="Unlimited2",US| Root Sports NorthWest HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/299982.ts
+#EXTINF:-1 group-title="Unlimited2",US| RT America FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/268136.ts
+#EXTINF:-1 group-title="Unlimited2",US| SEC Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93401.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime 2 East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93405.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime 2 West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440229.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime East  FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93409.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime Extreme East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93407.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime Extreme West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440230.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime Family Zone East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93408.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime Family Zone West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440234.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime Next East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93410.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime Next West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440232.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime Showcase East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93411.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime Showcase West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440231.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime SHOxBET East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154717.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime SHOxBET West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440235.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/181554.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime Women East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93412.ts
+#EXTINF:-1 group-title="Unlimited2",US| Showtime Women West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440233.ts
+#EXTINF:-1 group-title="Unlimited2",US| Smithsonian FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93415.ts
+#EXTINF:-1 group-title="Unlimited2",US| Sony Cine FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440687.ts
+#EXTINF:-1 group-title="Unlimited2",US| Spectrum Sportsnet LA DODGERS FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93425.ts
+#EXTINF:-1 group-title="Unlimited2",US| Spectrum Sportsnet LAKERS FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/218152.ts
+#EXTINF:-1 group-title="Unlimited2",US| SportsGrid FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440698.ts
+#EXTINF:-1 group-title="Unlimited2",US| Sportsman Channel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93435.ts
+#EXTINF:-1 group-title="Unlimited2",US| SPORTSNET NY HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93920.ts
+#EXTINF:-1 group-title="Unlimited2",US| STADIUM HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93436.ts
+#EXTINF:-1 group-title="Unlimited2",US| START TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/149310.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Cinema East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93442.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Cinema West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440224.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Comedy East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93444.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Comedy West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440227.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/184234.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Edge East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93445.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Edge West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440226.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Encore Action FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93447.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Encore Black FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93448.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Encore Classic FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93449.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Encore East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93452.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Encore Espanol FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93457.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Encore Family FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93451.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Encore Suspense FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93453.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Encore West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93439.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Encore Westerns FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93455.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz in Black East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93458.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz in Black West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440228.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz Kids & Family East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93459.ts
+#EXTINF:-1 group-title="Unlimited2",US| Starz West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93460.ts
+#EXTINF:-1 group-title="Unlimited2",US| Sundance FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93461.ts
+#EXTINF:-1 group-title="Unlimited2",US| SYFY FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93467.ts
+#EXTINF:-1 group-title="Unlimited2",US| Tastemade en Español FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440688.ts
+#EXTINF:-1 group-title="Unlimited2",US| TASTEMADE FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93470.ts
+#EXTINF:-1 group-title="Unlimited2",US| TBS FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154754.ts
+#EXTINF:-1 group-title="Unlimited2",US| TBS WEST FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/301919.ts
+#EXTINF:-1 group-title="Unlimited2",US| TCM FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154787.ts
+#EXTINF:-1 group-title="Unlimited2",US| TD Ameritrade FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/301699.ts
+#EXTINF:-1 group-title="Unlimited2",US| TEEN NICK FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93478.ts
+#EXTINF:-1 group-title="Unlimited2",US| TELEHIT FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440689.ts
+#EXTINF:-1 group-title="Unlimited2",US| TELEHIT Música FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440690.ts
+#EXTINF:-1 group-title="Unlimited2",US| Tennis Channel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93490.ts
+#EXTINF:-1 group-title="Unlimited2",US| The Weather Channel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93583.ts
+#EXTINF:-1 group-title="Unlimited2",US| ThrillerMax East FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92632.ts
+#EXTINF:-1 group-title="Unlimited2",US| ThrillerMax West FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/304863.ts
+#EXTINF:-1 group-title="Unlimited2",US| TLC FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/154770.ts
+#EXTINF:-1 group-title="Unlimited2",US| TLC WEST FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/301920.ts
+#EXTINF:-1 group-title="Unlimited2",US| TLNovelas FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440691.ts
+#EXTINF:-1 group-title="Unlimited2",US| TNT FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93506.ts
+#EXTINF:-1 group-title="Unlimited2",US| Travel Channel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93513.ts
+#EXTINF:-1 group-title="Unlimited2",US| Tru TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93517.ts
+#EXTINF:-1 group-title="Unlimited2",US| TUDN FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/491886.ts
+#EXTINF:-1 group-title="Unlimited2",US| TV LAND FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93535.ts
+#EXTINF:-1 group-title="Unlimited2",US| TV ONE FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93536.ts
+#EXTINF:-1 group-title="Unlimited2",US| TyC Sports FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440692.ts
+#EXTINF:-1 group-title="Unlimited2",US| TYT Network FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/491884.ts
+#EXTINF:-1 group-title="Unlimited2",US| UFC FIGHT PASS FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93539.ts
+#EXTINF:-1 group-title="Unlimited2",US| Universal Kids FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93549.ts
+#EXTINF:-1 group-title="Unlimited2",US| Universo FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440693.ts
+#EXTINF:-1 group-title="Unlimited2",US| USA NETWORK FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92299.ts
+#EXTINF:-1 group-title="Unlimited2",US| USA NETWORK WEST FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/301917.ts
+#EXTINF:-1 group-title="Unlimited2",US| VH1 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93573.ts
+#EXTINF:-1 group-title="Unlimited2",US| VICE FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93574.ts
+#EXTINF:-1 group-title="Unlimited2",US| VSIN FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93576.ts
+#EXTINF:-1 group-title="Unlimited2",US| WAPA América
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440694.ts
+#EXTINF:-1 group-title="Unlimited2",US| WE TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93582.ts
+#EXTINF:-1 group-title="Unlimited2",US| Weather Nation HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/213466.ts
+#EXTINF:-1 group-title="Unlimited2",US| Wild Earth FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311819.ts
+#EXTINF:-1 group-title="Unlimited2",US| WILLOW CRICKET HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93593.ts
+#EXTINF:-1 group-title="Unlimited2",US| World Fishing Network FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93594.ts
+#EXTINF:-1 group-title="Unlimited2",US| WWE NETWORK FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/260762.ts
+#EXTINF:-1 group-title="Unlimited2",US| Yahoo! Finance FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/301700.ts
+#EXTINF:-1 group-title="Unlimited2",US| Yes Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93606.ts
+
+#EXTINF:-1 group-title="Unlimited2",CA| A&E HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/151036.ts
+#EXTINF:-1 group-title="Unlimited2",CA| ABC Spark HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93615.ts
+#EXTINF:-1 group-title="Unlimited2",CA| ADDIK TV HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308277.ts
+#EXTINF:-1 group-title="Unlimited2",CA| ADULT SWIM HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93619.ts
+#EXTINF:-1 group-title="Unlimited2",CA| AMC HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/140012.ts
+#EXTINF:-1 group-title="Unlimited2",CA| AMI AUDIO
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308278.ts
+#EXTINF:-1 group-title="Unlimited2",CA| AMI TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308279.ts
+#EXTINF:-1 group-title="Unlimited2",CA| ANIMAL PLANET HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93624.ts
+#EXTINF:-1 group-title="Unlimited2",CA| APTN HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93626.ts
+#EXTINF:-1 group-title="Unlimited2",CA| BBC EARTH HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/151049.ts
+#EXTINF:-1 group-title="Unlimited2",CA| BBC WORLD NEWS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93632.ts
+#EXTINF:-1 group-title="Unlimited2",CA| beIN Sports HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93633.ts
+#EXTINF:-1 group-title="Unlimited2",CA| BET FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93637.ts
+#EXTINF:-1 group-title="Unlimited2",CA| BNN BLOOMBERG HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/159383.ts
+#EXTINF:-1 group-title="Unlimited2",CA| BRAVO FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93643.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CANADA ONE (URDU)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93872.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CANAL D (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93646.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CANAL SAVOIR (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/151052.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CARTOON NETWORK HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/159388.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CASA (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93651.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CBC CALGARY HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93652.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CBC CHARLOTTETOWN HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93654.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CBC EDMONTON HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93656.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CBC HALIFAX HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93658.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CBC HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308280.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CBC Montreal HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93661.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CBC NEWS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93663.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CBC OTTAWA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93667.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CBC REGINA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93668.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CBC St Johns FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/164815.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CBC TORONTO HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93664.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CBC VANCOUVER HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93672.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CBC WINDSOR HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93674.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CBC WINNIPEG HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93675.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CHCH HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/151054.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CINEPOP (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93683.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CITY CALGARY HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93684.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CITY MONTREAL HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93685.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CITY TORONTO HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/151056.ts
+#EXTINF:-1 group-title="Unlimited2",CA| City TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308281.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CITY VANCOUVER HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93687.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CMT HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93691.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CNN FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/159394.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CNN INTERNATIONAL
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/277798.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Cooking Channel HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93698.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Cottage Life
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93699.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CP24 NEWS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93700.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CPAC Francais HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/159396.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CRAVE 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93702.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CRAVE 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93703.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CRAVE 3 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93704.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CRAVE 4 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93705.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Crime+ Investigation HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93706.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CTV CALGARY HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93710.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CTV COMEDY HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93712.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CTV DRAMA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93713.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CTV EDMONTON HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/277814.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CTV HALIFAX HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93714.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CTV KITCHENER HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/151061.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CTV LIFE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/281107.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CTV MONTREAL HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93717.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CTV NEWS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93718.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CTV OTTAWA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93722.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CTV SCI-FI HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93723.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CTV TORONTO HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/159402.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CTV VANCOUVER HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93727.ts
+#EXTINF:-1 group-title="Unlimited2",CA| CTV2 ATLANTIC HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/164823.ts
+#EXTINF:-1 group-title="Unlimited2",CA| DAYSTAR TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93732.ts
+#EXTINF:-1 group-title="Unlimited2",CA| DEJAVIEW
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93733.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Discovery Channel HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93734.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Discovery Science
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93736.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Disney Junior HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/151077.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Disney XD HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93742.ts
+#EXTINF:-1 group-title="Unlimited2",CA| DIY Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93745.ts
+#EXTINF:-1 group-title="Unlimited2",CA| DTour HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93747.ts
+#EXTINF:-1 group-title="Unlimited2",CA| E! HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93748.ts
+#EXTINF:-1 group-title="Unlimited2",CA| EMCI FHD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93750.ts
+#EXTINF:-1 group-title="Unlimited2",CA| EVASION HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93754.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Family Channel HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93763.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Family Jr. HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93766.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Family West HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308283.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Food Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/159416.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Fox Sports Racing HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93773.ts
+#EXTINF:-1 group-title="Unlimited2",CA| FX HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93775.ts
+#EXTINF:-1 group-title="Unlimited2",CA| FXX HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/151092.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Game Show Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/159420.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Game TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93778.ts
+#EXTINF:-1 group-title="Unlimited2",CA| GLOBAL BC VANCOUVER HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93787.ts
+#EXTINF:-1 group-title="Unlimited2",CA| GLOBAL CALGARY HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/277841.ts
+#EXTINF:-1 group-title="Unlimited2",CA| GLOBAL EDMONTON HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93782.ts
+#EXTINF:-1 group-title="Unlimited2",CA| GLOBAL HALIFAX HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93784.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Global News HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/281098.ts
+#EXTINF:-1 group-title="Unlimited2",CA| GLOBAL TORONTO HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93786.ts
+#EXTINF:-1 group-title="Unlimited2",CA| GOLF Channel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/151095.ts
+#EXTINF:-1 group-title="Unlimited2",CA| HBO 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93794.ts
+#EXTINF:-1 group-title="Unlimited2",CA| HBO 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93793.ts
+#EXTINF:-1 group-title="Unlimited2",CA| HGTV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93796.ts
+#EXTINF:-1 group-title="Unlimited2",CA| History 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93802.ts
+#EXTINF:-1 group-title="Unlimited2",CA| History HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/164848.ts
+#EXTINF:-1 group-title="Unlimited2",CA| HLN HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93804.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Hollywood Suite 2000s HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308284.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Hollywood Suite 90s HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308285.ts
+#EXTINF:-1 group-title="Unlimited2",CA| ICI ARTV HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93808.ts
+#EXTINF:-1 group-title="Unlimited2",CA| ICI MONTREAL FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93809.ts
+#EXTINF:-1 group-title="Unlimited2",CA| ICI MONTREAL FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93810.ts
+#EXTINF:-1 group-title="Unlimited2",CA| ICI Radio Toronto HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93814.ts
+#EXTINF:-1 group-title="Unlimited2",CA| ICI RDI HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/164851.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Investigation Discovery HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/277857.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Knowledge Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/281080.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Le Canal Nouvelles (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93826.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Lifetime HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93827.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Makeful HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93830.ts
+#EXTINF:-1 group-title="Unlimited2",CA| MAV TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93831.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Meteo Media (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93834.ts
+#EXTINF:-1 group-title="Unlimited2",CA| MOI et CIE (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93839.ts
+#EXTINF:-1 group-title="Unlimited2",CA| MOVIETIME HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93842.ts
+#EXTINF:-1 group-title="Unlimited2",CA| MTV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93845.ts
+#EXTINF:-1 group-title="Unlimited2",CA| MTV2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93844.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Much Music HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93849.ts
+#EXTINF:-1 group-title="Unlimited2",CA| NAT GEO HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93855.ts
+#EXTINF:-1 group-title="Unlimited2",CA| NAT GEO WILD HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93857.ts
+#EXTINF:-1 group-title="Unlimited2",CA| NBA TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93860.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Nickelodeon HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93864.ts
+#EXTINF:-1 group-title="Unlimited2",CA| OLN HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/159444.ts
+#EXTINF:-1 group-title="Unlimited2",CA| OMNI 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93870.ts
+#EXTINF:-1 group-title="Unlimited2",CA| OMNI 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/159445.ts
+#EXTINF:-1 group-title="Unlimited2",CA| ONE: Get Fit HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/281152.ts
+#EXTINF:-1 group-title="Unlimited2",CA| OWN HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93873.ts
+#EXTINF:-1 group-title="Unlimited2",CA| PEACHTREE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93882.ts
+#EXTINF:-1 group-title="Unlimited2",CA| PRIME CANADA TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/159450.ts
+#EXTINF:-1 group-title="Unlimited2",CA| PRISE 2
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93884.ts
+#EXTINF:-1 group-title="Unlimited2",CA| PRISE 2 HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93886.ts
+#EXTINF:-1 group-title="Unlimited2",CA| RAI News 24 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/281229.ts
+#EXTINF:-1 group-title="Unlimited2",CA| RDS 2 HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/151120.ts
+#EXTINF:-1 group-title="Unlimited2",CA| RDS INFO HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93894.ts
+#EXTINF:-1 group-title="Unlimited2",CA| ROGERS TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94013.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Salt & Light HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93898.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SHOWCASE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93904.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Silver Screen Classics HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93905.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SLICE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93906.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Smithsonian HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93907.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SPORTS NEWS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308286.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Sportsman HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/281199.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SPORTSNET 360 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94009.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SPORTSNET EAST HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/278027.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SPORTSNET ONE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93922.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SPORTSNET ONTARIO HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/164876.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SPORTSNET PACIFIC HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94011.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SPORTSNET WEST FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/151132.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SPORTSNET WORLD FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93924.ts
+#EXTINF:-1 group-title="Unlimited2",CA| STARZ 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/281210.ts
+#EXTINF:-1 group-title="Unlimited2",CA| STARZ 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/281211.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SUPER Channel Heart & Home HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93965.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SUPER ECRAN 1 (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93930.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SUPER ECRAN 2 HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93932.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Super Ecran 3 HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93935.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Super Ecran 4 (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93936.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SuperSports 01 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311709.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SuperSports 02 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311710.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SuperSports 03 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311711.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SuperSports 04 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311712.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SuperSports 05 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311713.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SuperSports 06 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311714.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SuperSports 08 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311716.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SuperSports 09 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311717.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SuperSports 10 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311718.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SuperSports 11 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311719.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SuperSports 12 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311720.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SuperSports 13 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311721.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SuperSports 14 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311722.ts
+#EXTINF:-1 group-title="Unlimited2",CA| SuperSports 15 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311723.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TELE QUEBEC (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93969.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TELETOON HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93979.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TELETOON WEST HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/151139.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TFO HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93981.ts
+#EXTINF:-1 group-title="Unlimited2",CA| The Shopping Channel HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93903.ts
+#EXTINF:-1 group-title="Unlimited2",CA| The Weather Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94035.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TLC HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93986.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Travel ESCAPE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93989.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TREEHOUSE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93991.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TSN 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/151152.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TSN 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93997.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TSN 3 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/151157.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TSN 4 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94003.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TSN 5 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94007.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Turner Classic Movies HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/164893.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TV Ontario HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/281081.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TV5 Quebec HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94014.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TVA MONTREAL HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94019.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TVA SPORTS 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94023.ts
+#EXTINF:-1 group-title="Unlimited2",CA| TVA SPORTS 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94024.ts
+#EXTINF:-1 group-title="Unlimited2",CA| UNIS TV HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94028.ts
+#EXTINF:-1 group-title="Unlimited2",CA| VIE HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94029.ts
+#EXTINF:-1 group-title="Unlimited2",CA| VISION TV  HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94030.ts
+#EXTINF:-1 group-title="Unlimited2",CA| VRAK TV (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94031.ts
+#EXTINF:-1 group-title="Unlimited2",CA| W Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94034.ts
+#EXTINF:-1 group-title="Unlimited2",CA| WGN HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94038.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Wild TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94039.ts
+#EXTINF:-1 group-title="Unlimited2",CA| WildBrain TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93764.ts
+#EXTINF:-1 group-title="Unlimited2",CA| World Fishing Network HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94041.ts
+#EXTINF:-1 group-title="Unlimited2",CA| YES TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94043.ts
+#EXTINF:-1 group-title="Unlimited2",CA| YOOPA HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/151177.ts
+#EXTINF:-1 group-title="Unlimited2",CA| YTV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94046.ts
+#EXTINF:-1 group-title="Unlimited2",CA| YTV WEST HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/308288.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Z TELE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94049.ts
+#EXTINF:-1 group-title="Unlimited2",CA| Z TELE HD (FR)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/94050.ts
+#EXTINF:-1 group-title="Unlimited2",AU| ABC
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307792.ts
+#EXTINF:-1 group-title="Unlimited2",AU| ABC Comedy HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307795.ts
+#EXTINF:-1 group-title="Unlimited2",AU| ABC KIDS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307796.ts
+#EXTINF:-1 group-title="Unlimited2",AU| ABC ME HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307797.ts
+#EXTINF:-1 group-title="Unlimited2",AU| ABC One HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307794.ts
+#EXTINF:-1 group-title="Unlimited2",AU| ACC TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307811.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Ausbiz
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307807.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Ausbiz FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307808.ts
+#EXTINF:-1 group-title="Unlimited2",AU| beIN Sports 1
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307817.ts
+#EXTINF:-1 group-title="Unlimited2",AU| beIN Sports 1 FHD..
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307818.ts
+#EXTINF:-1 group-title="Unlimited2",AU| beIN Sports 2
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307819.ts
+#EXTINF:-1 group-title="Unlimited2",AU| beIN Sports 2 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307820.ts
+#EXTINF:-1 group-title="Unlimited2",AU| beIN Sports 3
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307821.ts
+#EXTINF:-1 group-title="Unlimited2",AU| beIN Sports 3 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307822.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Bloomberg Australia
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307812.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Channel 10
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307784.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Channel 10 BOLD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307786.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Channel 10 Peach
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307785.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Channel 7 FLIX
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307773.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Channel 7 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307769.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Channel 7 SD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307770.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Channel 7 TWO
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307771.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Channel 9
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307774.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Channel 9 GEM HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307776.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Channel 9 GEM SD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307777.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Channel 9 GO HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307779.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Channel 9 LIFE
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307781.ts
+#EXTINF:-1 group-title="Unlimited2",AU| ESPN 1
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307823.ts
+#EXTINF:-1 group-title="Unlimited2",AU| ESPN 1 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307824.ts
+#EXTINF:-1 group-title="Unlimited2",AU| ESPN 2
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307825.ts
+#EXTINF:-1 group-title="Unlimited2",AU| ESPN 2 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307826.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Fox Sports 501 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307830.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Fox Sports 502 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307832.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Fox Sports 503 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307834.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Fox Sports 504 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307836.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Fox Sports 505 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307838.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Fox Sports 506 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307840.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Fox Sports 507 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307842.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Fuel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307799.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Fuel TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307798.ts
+#EXTINF:-1 group-title="Unlimited2",AU| NITV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307806.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Outdoor FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307801.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Outdoor HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307800.ts
+#EXTINF:-1 group-title="Unlimited2",AU| RACING.COM HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307846.ts
+#EXTINF:-1 group-title="Unlimited2",AU| S NEWS AUSTRALIA
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307791.ts
+#EXTINF:-1 group-title="Unlimited2",AU| SBS FOOD NETWORK
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307803.ts
+#EXTINF:-1 group-title="Unlimited2",AU| SBS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307802.ts
+#EXTINF:-1 group-title="Unlimited2",AU| SBS Viceland HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307804.ts
+#EXTINF:-1 group-title="Unlimited2",AU| SBS World Movies
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307805.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Sky News Extra 1 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307764.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Sky News Extra 3 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307768.ts
+#EXTINF:-1 group-title="Unlimited2",AU| SKY RACING 1 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307848.ts
+#EXTINF:-1 group-title="Unlimited2",AU| Sky RACING 2 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307850.ts
+#EXTINF:-1 group-title="Unlimited2",AU| TEN HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307787.ts
+#EXTINF:-1 group-title="Unlimited2",AU| UFC Fight Pass UHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307845.ts
+
+#EXTINF:-1 group-title="Unlimited2",IT| Rai Storia FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449537.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Nove HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449540.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Real Time FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449542.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Giallo FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449544.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Mediaset ITALIA DUE
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449547.ts
+#EXTINF:-1 group-title="Unlimited2",IT| LA7 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449552.ts
+#EXTINF:-1 group-title="Unlimited2",IT| RSI LA 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449556.ts
+#EXTINF:-1 group-title="Unlimited2",IT| RSI LA 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449557.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Padre Pio Tv
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449558.ts
+#EXTINF:-1 group-title="Unlimited2",IT| 27 Twentyseven FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449559.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Cielo FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449560.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Tgcom 24
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449561.ts
+#EXTINF:-1 group-title="Unlimited2",IT| K2
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449568.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Cartoon Network FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449569.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Horse Tv
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449570.ts
+#EXTINF:-1 group-title="Unlimited2",IT| EQU TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449571.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Bianconera Juventus TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449574.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Rai Sport + FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449575.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Motor Trend HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449577.ts
+#EXTINF:-1 group-title="Unlimited2",IT| SI Plus FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449578.ts
+#EXTINF:-1 group-title="Unlimited2",IT| BIKE
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449580.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Explorer FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449586.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Italian Fishing TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449587.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Paramount Network
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449600.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Mediaset Italia 2
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449608.ts
+#EXTINF:-1 group-title="Unlimited2",IT| TV8
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449633.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Spike
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449640.ts
+#EXTINF:-1 group-title="Unlimited2",IT| QVC
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449641.ts
+#EXTINF:-1 group-title="Unlimited2",IT| TV 2000
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449642.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Sport Italia HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449651.ts
+#EXTINF:-1 group-title="Unlimited2",IT| FOX CRIME FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449661.ts
+#EXTINF:-1 group-title="Unlimited2",IT| -frisbee-
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449668.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Boing Plus
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449673.ts
+#EXTINF:-1 group-title="Unlimited2",IT| SKY SP 24 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449690.ts
+#EXTINF:-1 group-title="Unlimited2",IT| SKY CINEMA DUE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449699.ts
+#EXTINF:-1 group-title="Unlimited2",IT| SKY CINEMA SUSPENSE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449700.ts
+#EXTINF:-1 group-title="Unlimited2",IT| SKY MOTO GP HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449702.ts
+#EXTINF:-1 group-title="Unlimited2",IT| SKY SPORT 24 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449762.ts
+#EXTINF:-1 group-title="Unlimited2",IT| Sky Sport Uno HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449765.ts
+#EXTINF:-1 group-title="Unlimited2",IT| SKY SPORT F1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449767.ts
+#EXTINF:-1 group-title="Unlimited2",IT| SKY SPORT MOTO GP HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449768.ts
+#EXTINF:-1 group-title="Unlimited2",IT| PREMIUM ACTION HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449780.ts
+#EXTINF:-1 group-title="Unlimited2",IT| PREMIUM CINEMA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449787.ts
+#EXTINF:-1 group-title="Unlimited2",IT| RAI 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449809.ts
+#EXTINF:-1 group-title="Unlimited2",IT| RAI 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449810.ts
+#EXTINF:-1 group-title="Unlimited2",IT| RAI 3 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449811.ts
+#EXTINF:-1 group-title="Unlimited2",IT| RAI 4 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449812.ts
+#EXTINF:-1 group-title="Unlimited2",IT| RAI 5 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449813.ts
+#EXTINF:-1 group-title="Unlimited2",IT| ITALIA 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449814.ts
+#EXTINF:-1 group-title="Unlimited2",IT| ITALIA 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449815.ts
+#EXTINF:-1 group-title="Unlimited2",IT| CANALE 5 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449816.ts
+#EXTINF:-1 group-title="Unlimited2",IT| RETE 4
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449817.ts
+#EXTINF:-1 group-title="Unlimited2",IT| IRIS TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449818.ts
+#EXTINF:-1 group-title="Unlimited2",IT| RAI NEWS
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449819.ts
+#EXTINF:-1 group-title="Unlimited2",IT| RAI SCUOLA
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449820.ts
+#EXTINF:-1 group-title="Unlimited2",IT| DISCOVERY
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449821.ts
+#EXTINF:-1 group-title="Unlimited2",IT| DMAX
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449822.ts
+#EXTINF:-1 group-title="Unlimited2",IT| FOCUS
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449823.ts
+#EXTINF:-1 group-title="Unlimited2",IT| LA 5
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449824.ts
+#EXTINF:-1 group-title="Unlimited2",IT| MEDIASET EXTRA
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449826.ts
+#EXTINF:-1 group-title="Unlimited2",IT| TOP CRIME
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449827.ts
+#EXTINF:-1 group-title="Unlimited2",IT| RAI PREMIUM
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449828.ts
+#EXTINF:-1 group-title="Unlimited2",IT| RAI MOVIE
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449829.ts
+#EXTINF:-1 group-title="Unlimited2",IT| SKY PRIMAFILA 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449831.ts
+#EXTINF:-1 group-title="Unlimited2",IT| SKY PRIMAFILA 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449832.ts
+#EXTINF:-1 group-title="Unlimited2",IT| SKY PRIMAFILA 3 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449833.ts
+#EXTINF:-1 group-title="Unlimited2",IT| SKY PRIMAFILA 4 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449834.ts
+#EXTINF:-1 group-title="Unlimited2",IT| SKY PRIMAFILA 5 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449835.ts
+#EXTINF:-1 group-title="Unlimited2",IT| SKY PRIMAFILA 6 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449836.ts
+#EXTINF:-1 group-title="Unlimited2",IT| RAI GULP
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449843.ts
+#EXTINF:-1 group-title="Unlimited2",IT| RAI YOYO
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449844.ts
+#EXTINF:-1 group-title="Unlimited2",IT| SUPER!
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/449845.ts
+
+#EXTINF:-1 group-title="Unlimited2",PL| 13 Ulica FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276288.ts
+#EXTINF:-1 group-title="Unlimited2",PL| 4Fun Dance
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276290.ts
+#EXTINF:-1 group-title="Unlimited2",PL| 4Fun Kids
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276291.ts
+#EXTINF:-1 group-title="Unlimited2",PL| 4Fun TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276294.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Active Family
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276295.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Adventure FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276296.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Ale Kino+ FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276298.ts
+#EXTINF:-1 group-title="Unlimited2",PL| AMC FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276300.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Animal Planet FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276302.ts
+#EXTINF:-1 group-title="Unlimited2",PL| AXN Black
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276305.ts
+#EXTINF:-1 group-title="Unlimited2",PL| AXN FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276306.ts
+#EXTINF:-1 group-title="Unlimited2",PL| AXN Spin FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276308.ts
+#EXTINF:-1 group-title="Unlimited2",PL| AXN White
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276310.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Baby TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276311.ts
+#EXTINF:-1 group-title="Unlimited2",PL| BBC Brit FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276312.ts
+#EXTINF:-1 group-title="Unlimited2",PL| BBC CBeebies
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276314.ts
+#EXTINF:-1 group-title="Unlimited2",PL| BBC Earth FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276315.ts
+#EXTINF:-1 group-title="Unlimited2",PL| BBC First FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276316.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Boomerang FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276320.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Canal+ Dokument FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276323.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Canal+ Family FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276324.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Cartoon Network FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276341.ts
+#EXTINF:-1 group-title="Unlimited2",PL| CBS Europa FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276345.ts
+#EXTINF:-1 group-title="Unlimited2",PL| CBS Reality
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276347.ts
+#EXTINF:-1 group-title="Unlimited2",PL| CI Polsat FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276348.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Cinemax 2 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276349.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Cinemax FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276351.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Comedy Central FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276356.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Discovery Science FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276364.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Discovery Turbo Xtra FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276366.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Disney Channel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276368.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Disney Junior
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276370.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Disney XD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276371.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Extreme Sports FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276395.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Fightbox FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/315789.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Fokus TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276408.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Food Network FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276409.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Fox Comedy FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276412.ts
+#EXTINF:-1 group-title="Unlimited2",PL| FOX FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276413.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Golf Channel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276416.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Kuchnia+ FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276437.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Metro
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276441.ts
+#EXTINF:-1 group-title="Unlimited2",PL| MiniMini+ FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/315816.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Motowizja FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276445.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Paramount Channel FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276468.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Planete+ FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276470.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Polo TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276473.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Polonia 1
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276475.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Polsat 2 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276477.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Polsat Cafe FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276479.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Polsat Comedy Central Extra
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/315836.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Polsat FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276483.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Polsat Film FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276484.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Polsat Sport Premium 2 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276511.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Polsat Sport Premium 3 PPV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276513.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Super Polsat FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276536.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Superstacja FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276538.ts
+#EXTINF:-1 group-title="Unlimited2",PL| TELE5
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276539.ts
+#EXTINF:-1 group-title="Unlimited2",PL| TeleTOON+ FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276541.ts
+#EXTINF:-1 group-title="Unlimited2",PL| TLC FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276542.ts
+#EXTINF:-1 group-title="Unlimited2",PL| TV4 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/315879.ts
+#EXTINF:-1 group-title="Unlimited2",PL| TVN FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276578.ts
+#EXTINF:-1 group-title="Unlimited2",PL| TVN Turbo FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276583.ts
+#EXTINF:-1 group-title="Unlimited2",PL| Viaplay Xtra 2
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/419205.ts
+#EXTINF:-1 group-title="Unlimited2",PL| VOD 207
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/315903.ts
+#EXTINF:-1 group-title="Unlimited2",ZA| SuperSport Variety 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109036.ts
+#EXTINF:-1 group-title="Unlimited2",ZA| SuperSport Variety 4 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109042.ts
+#EXTINF:-1 group-title="Unlimited2",ZA| SuperSport WWE
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/149634.ts
+#EXTINF:-1 group-title="Unlimited2",ZA| TLC Entertainment
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/207622.ts
+#EXTINF:-1 group-title="Unlimited2",ZA| TRACE Africa HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/207675.ts
+#EXTINF:-1 group-title="Unlimited2",ZA| TRACE Gospel HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/207677.ts
+#EXTINF:-1 group-title="Unlimited2",ZA| TRACE Urban
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/206898.ts
+#EXTINF:-1 group-title="Unlimited2",ZA| Travel Channel HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/207639.ts
+#EXTINF:-1 group-title="Unlimited2",ZA| Wild Earth HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/207643.ts
+#EXTINF:-1 group-title="Unlimited2",ZA| Zee World HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/207633.ts
+#EXTINF:-1 group-title="Unlimited2",#VAMOS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276047.ts
+#EXTINF:-1 group-title="Unlimited2",ES| 24 HORAS FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276048.ts
+#EXTINF:-1 group-title="Unlimited2",ES| 7RM FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275624.ts
+#EXTINF:-1 group-title="Unlimited2",ES| AMC FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275654.ts
+#EXTINF:-1 group-title="Unlimited2",ES| Andalucia TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275655.ts
+#EXTINF:-1 group-title="Unlimited2",ES| ANTENA 3 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275657.ts
+#EXTINF:-1 group-title="Unlimited2",ES| ARAGON TV INT HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431540.ts
+#EXTINF:-1 group-title="Unlimited2",ES| Atreseries HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275660.ts
+#EXTINF:-1 group-title="Unlimited2",ES| ATV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275661.ts
+#EXTINF:-1 group-title="Unlimited2",ES| AXN FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275664.ts
+#EXTINF:-1 group-title="Unlimited2",ES| AXN WHITE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275666.ts
+#EXTINF:-1 group-title="Unlimited2",ES| Baby TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275668.ts
+#EXTINF:-1 group-title="Unlimited2",ES| BARCA TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275670.ts
+#EXTINF:-1 group-title="Unlimited2",ES| BE MAD HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275672.ts
+#EXTINF:-1 group-title="Unlimited2",ES| BEIN SPORT HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275673.ts
+#EXTINF:-1 group-title="Unlimited2",ES| BLAZE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275677.ts
+#EXTINF:-1 group-title="Unlimited2",ES| Boing HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275679.ts
+#EXTINF:-1 group-title="Unlimited2",ES| BOM CINE
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275681.ts
+#EXTINF:-1 group-title="Unlimited2",ES| CALLE 13 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275687.ts
+#EXTINF:-1 group-title="Unlimited2",ES| CANAL 24 HORAS
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275688.ts
+#EXTINF:-1 group-title="Unlimited2",ES| CANAL COCINA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275697.ts
+#EXTINF:-1 group-title="Unlimited2",ES| Canal Decasa HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275700.ts
+#EXTINF:-1 group-title="Unlimited2",ES| CANAL ODISEA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431630.ts
+#EXTINF:-1 group-title="Unlimited2",ES| CANAL PANDA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275706.ts
+#EXTINF:-1 group-title="Unlimited2",ES| CANAL SUR A
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275710.ts
+#EXTINF:-1 group-title="Unlimited2",ES| Canal Sur Andalucia
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275711.ts
+#EXTINF:-1 group-title="Unlimited2",ES| CARACOL
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275716.ts
+#EXTINF:-1 group-title="Unlimited2",ES| CAZA Y PESCA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275719.ts
+#EXTINF:-1 group-title="Unlimited2",ES| CAZAVISION
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275720.ts
+#EXTINF:-1 group-title="Unlimited2",ES| CBN
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275721.ts
+#EXTINF:-1 group-title="Unlimited2",ES| CLAN HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275724.ts
+#EXTINF:-1 group-title="Unlimited2",ES| CLASSICA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275726.ts
+#EXTINF:-1 group-title="Unlimited2",ES| COCINA
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431475.ts
+#EXTINF:-1 group-title="Unlimited2",ES| COMEDY CENTRAL HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275730.ts
+#EXTINF:-1 group-title="Unlimited2",ES| COSMO HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275734.ts
+#EXTINF:-1 group-title="Unlimited2",ES| CRIME & INVESTIGATION HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275737.ts
+#EXTINF:-1 group-title="Unlimited2",ES| CUATRO HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275739.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DARK HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275742.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DAZN 1 ESPAÃAÂ HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431572.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DAZN 2 ESPAÃA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431573.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DAZN 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275746.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DAZN 3 ESPAÃA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431574.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DAZN 3 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275748.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DAZN 4 ESPAÃA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431575.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DAZN 4 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275750.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DAZN F1 ESPAÃA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431576.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DAZN F1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275752.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DECASA
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431476.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DISCOVERY CHANNEL HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275757.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DISNEY CHANNEL HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275761.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DISNEY JUNIOR
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275764.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DISNEY XD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275765.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DIVINITY HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275769.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DKISS
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275820.ts
+#EXTINF:-1 group-title="Unlimited2",ES| DMAX
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275771.ts
+#EXTINF:-1 group-title="Unlimited2",ES| EL TORO FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431777.ts
+#EXTINF:-1 group-title="Unlimited2",ES| ENERGY HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275775.ts
+#EXTINF:-1 group-title="Unlimited2",ES| ESPN 1
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275777.ts
+#EXTINF:-1 group-title="Unlimited2",ES| ESPN 2
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275778.ts
+#EXTINF:-1 group-title="Unlimited2",ES| ESPN 3
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275779.ts
+#EXTINF:-1 group-title="Unlimited2",ES| ESPN DEPORTES
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275780.ts
+#EXTINF:-1 group-title="Unlimited2",ES| ETB 1  (TDT) HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431650.ts
+#EXTINF:-1 group-title="Unlimited2",ES| ETB 2  (TDT) HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431651.ts
+#EXTINF:-1 group-title="Unlimited2",ES| EUROSPORT 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275786.ts
+#EXTINF:-1 group-title="Unlimited2",ES| EUROSPORT 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275788.ts
+#EXTINF:-1 group-title="Unlimited2",ES| FACTORIA DE FICCION HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275791.ts
+#EXTINF:-1 group-title="Unlimited2",ES| FDF HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431936.ts
+#EXTINF:-1 group-title="Unlimited2",ES| FOX HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275795.ts
+#EXTINF:-1 group-title="Unlimited2",ES| FOX LIFE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275797.ts
+#EXTINF:-1 group-title="Unlimited2",ES| FOX MOVIES HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275798.ts
+#EXTINF:-1 group-title="Unlimited2",ES| FOX NEWS
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275799.ts
+#EXTINF:-1 group-title="Unlimited2",ES| GOL HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275803.ts
+#EXTINF:-1 group-title="Unlimited2",ES| GOLF HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275805.ts
+#EXTINF:-1 group-title="Unlimited2",ES| Historia HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275808.ts
+#EXTINF:-1 group-title="Unlimited2",ES| HOLLYWOOD HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275811.ts
+#EXTINF:-1 group-title="Unlimited2",ES| I24 FRANCIS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431545.ts
+#EXTINF:-1 group-title="Unlimited2",ES| i24 NEWS
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275813.ts
+#EXTINF:-1 group-title="Unlimited2",ES| IBERALIA
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275814.ts
+#EXTINF:-1 group-title="Unlimited2",ES| LA 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275822.ts
+#EXTINF:-1 group-title="Unlimited2",ES| LA 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275824.ts
+#EXTINF:-1 group-title="Unlimited2",ES| La Liga BAR HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275828.ts
+#EXTINF:-1 group-title="Unlimited2",ES| LA SEXTA FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275833.ts
+#EXTINF:-1 group-title="Unlimited2",ES| LALIGA 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431522.ts
+#EXTINF:-1 group-title="Unlimited2",ES| LALIGA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431521.ts
+#EXTINF:-1 group-title="Unlimited2",ES| LIGA DE CAMPEONES
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276133.ts
+#EXTINF:-1 group-title="Unlimited2",ES| LIGA DE CAMPEONES 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431529.ts
+#EXTINF:-1 group-title="Unlimited2",ES| LIGA DE CAMPEONES 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275844.ts
+#EXTINF:-1 group-title="Unlimited2",ES| LIGA DE CAMPEONES 3
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275845.ts
+#EXTINF:-1 group-title="Unlimited2",ES| LIGA DE CAMPEONES 4
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275846.ts
+#EXTINF:-1 group-title="Unlimited2",ES| LIGA DE CAMPEONES 5
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275847.ts
+#EXTINF:-1 group-title="Unlimited2",ES| LIGA TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431530.ts
+#EXTINF:-1 group-title="Unlimited2",#0 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431950.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M+ DRAMA FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431869.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. Accion 4K
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431874.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. Cine Espaأ¦ol
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276105.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. Comedia 4K
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431862.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. Dazn 1 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/432057.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. Dazn 2 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/432061.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. Dazn 3 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/432065.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. Dazn 4 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/432069.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. Dazn F1 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/432073.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. DEPORTES 1 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431591.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. DEPORTES 2 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431594.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. DEPORTES 3 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431593.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. DEPORTES FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276108.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. Estrenos 2 4K
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431858.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. Estrenos 4K
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431854.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. Fest 4K
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431815.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. LaLiga 1  FHD (Solo Eventos)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431967.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. LaLiga 3 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/432007.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. LALIGA 4 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431581.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. LaLiga 5  HD (Solo Eventos)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/432000.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M. LALIGA 6 FHD (SOLO EVENTO)
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431583.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M.Laliga 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275900.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M.SERIES HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275914.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M.Series Mania FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275916.ts
+#EXTINF:-1 group-title="Unlimited2",ES| M.Seriesmania HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276136.ts
+#EXTINF:-1 group-title="Unlimited2",ES| MARBELLA TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275923.ts
+#EXTINF:-1 group-title="Unlimited2",ES| MEGA HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275925.ts
+#EXTINF:-1 group-title="Unlimited2",ES| MEZZO LIVE HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275930.ts
+#EXTINF:-1 group-title="Unlimited2",#
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431485.ts
+#EXTINF:-1 group-title="Unlimited2",ES| MOVISTAR ACCION HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431486.ts
+#EXTINF:-1 group-title="Unlimited2",ES| MOVISTAR MOTO GP HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431526.ts
+#EXTINF:-1 group-title="Unlimited2",ES| MOVISTAR TOROS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431491.ts
+#EXTINF:-1 group-title="Unlimited2",ES| MTV 00 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431817.ts
+#EXTINF:-1 group-title="Unlimited2",ES| MULTIDEPORTE
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431493.ts
+#EXTINF:-1 group-title="Unlimited2",ES| Nasa TV UHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275941.ts
+#EXTINF:-1 group-title="Unlimited2",ES| Panda
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275963.ts
+#EXTINF:-1 group-title="Unlimited2",ES| Taquilla 8
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275997.ts
+#EXTINF:-1 group-title="Unlimited2",ES| Taquilla 9
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/275998.ts
+#EXTINF:-1 group-title="Unlimited2",ES| TEN
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276013.ts
+#EXTINF:-1 group-title="Unlimited2",ES| TVM HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431570.ts
+
+#EXTINF:-1 group-title="Unlimited2",TR| 24 Haber HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307074.ts
+#EXTINF:-1 group-title="Unlimited2",TR| 24 Kitchen HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306817.ts
+#EXTINF:-1 group-title="Unlimited2",TR| 24 TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306589.ts
+#EXTINF:-1 group-title="Unlimited2",TR| 24 TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306943.ts
+#EXTINF:-1 group-title="Unlimited2",TR| 360 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306585.ts
+#EXTINF:-1 group-title="Unlimited2",TR| 360 TV HD LOCAL
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306526.ts
+#EXTINF:-1 group-title="Unlimited2",TR| 360 TV HD+
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306937.ts
+#EXTINF:-1 group-title="Unlimited2",TR| 363
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306665.ts
+#EXTINF:-1 group-title="Unlimited2",TR| A Haber FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307070.ts
+#EXTINF:-1 group-title="Unlimited2",TR| A HABER HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306925.ts
+#EXTINF:-1 group-title="Unlimited2",TR| A Haber HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307069.ts
+#EXTINF:-1 group-title="Unlimited2",TR| A HABER HD+
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306924.ts
+#EXTINF:-1 group-title="Unlimited2",TR| A NEWS HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307089.ts
+#EXTINF:-1 group-title="Unlimited2",TR| A Para FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307088.ts
+#EXTINF:-1 group-title="Unlimited2",TR| A Spor HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306778.ts
+#EXTINF:-1 group-title="Unlimited2",TR| A2 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306583.ts
+#EXTINF:-1 group-title="Unlimited2",TR| A2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306584.ts
+#EXTINF:-1 group-title="Unlimited2",TR| A2 HD PLUS
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306520.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Akilli TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306676.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Anadolu Dernek TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306625.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Animaux
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306598.ts
+#EXTINF:-1 group-title="Unlimited2",TR| ATV EURO LOCAL
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306529.ts
+#EXTINF:-1 group-title="Unlimited2",TR| ATV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306561.ts
+#EXTINF:-1 group-title="Unlimited2",TR| ATV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306562.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BBC Cbeebies
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306601.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Box Office 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306987.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Box Office 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306988.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Box Office 3 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306989.ts
+#EXTINF:-1 group-title="Unlimited2",TR| beIN GURME
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306800.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN IZ HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306815.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Movies Action 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306990.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Movies Action 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306991.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Movies Premiere 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306995.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Movies Premiere 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306996.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Movies Stars HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306992.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Movies Turk HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306993.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Series Comedy HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306997.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Bein Series Drama FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307000.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Series Sci-Fi HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306999.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Series Vice HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306998.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Sports 1 4K
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306755.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Sports 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306753.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Sports 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306756.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Sports 3 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306758.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Sports 3 HD Backup
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306759.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Sports 4 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306760.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Sports 4 HD Backup
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306761.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Sports Haber HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306764.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Sports Max 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306762.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BeIN Sports Max 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306763.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Bengu Turk TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306619.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Beyaz FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306574.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BEYAZ TV HD+
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306513.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Beykent TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306685.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Bloomberg FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307077.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Bloomberg HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307076.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BLOOMBERGHT HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306942.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BRT 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306647.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Brt 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306648.ts
+#EXTINF:-1 group-title="Unlimited2",TR| BRT 3
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306626.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Camia TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306686.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Cay TV Rize
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306687.ts
+#EXTINF:-1 group-title="Unlimited2",TR| CEM TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306628.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Cinemaximum Aksiyon HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306826.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Cinemaximum Bilim Kurgu HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306828.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Cinemaximum Dram HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306824.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Cinemaximum Dövüş HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306827.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Cinemaximum HD 2
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306834.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Cinemaximum HD 3
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306835.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Cinemaximum HD 4
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306836.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Cinemaximum HD 5
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306837.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Cinemaximum HD 6
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306838.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Cinemaximum Romantik HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306829.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Cinemaximum Yerli 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306830.ts
+#EXTINF:-1 group-title="Unlimited2",TR| CNN Turk FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307063.ts
+#EXTINF:-1 group-title="Unlimited2",TR| CTR| NN TURK HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306929.ts
+#EXTINF:-1 group-title="Unlimited2",TR| DA Vinci HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306812.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Deniz Postasi TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306631.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Discovery Channel HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306810.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Discovery IDX HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306822.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Dizi Smart Premium HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306975.ts
+#EXTINF:-1 group-title="Unlimited2",TR| DMax HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306819.ts
+#EXTINF:-1 group-title="Unlimited2",TR| DMAX TR HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306804.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Dost TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306609.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Dream Turk TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307097.ts
+#EXTINF:-1 group-title="Unlimited2",TR| DREAMBOX KEMAL SUNAL
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306916.ts
+#EXTINF:-1 group-title="Unlimited2",TR| DreamTurk HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307047.ts
+#EXTINF:-1 group-title="Unlimited2",TR| EkoTurk HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307090.ts
+#EXTINF:-1 group-title="Unlimited2",TR| ENO AKSIYON 1
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306875.ts
+#EXTINF:-1 group-title="Unlimited2",TR| ENO AKSIYON 2
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306876.ts
+#EXTINF:-1 group-title="Unlimited2",TR| ENO VIZYON 10
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306852.ts
+#EXTINF:-1 group-title="Unlimited2",TR| ENO ViZYON 3
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306845.ts
+#EXTINF:-1 group-title="Unlimited2",TR| ENO VIZYON 9
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306851.ts
+#EXTINF:-1 group-title="Unlimited2",TR| ENOFLIX 1
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306877.ts
+#EXTINF:-1 group-title="Unlimited2",TR| ENOFLIX 2
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306878.ts
+#EXTINF:-1 group-title="Unlimited2",TR| ENOFLIX 3
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306879.ts
+#EXTINF:-1 group-title="Unlimited2",TR| ES TV Eskisehir
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306688.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Euro D HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306556.ts
+#EXTINF:-1 group-title="Unlimited2",TR| EURO STAR LOCAL
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306530.ts
+#EXTINF:-1 group-title="Unlimited2",TR| EuroSport 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306779.ts
+#EXTINF:-1 group-title="Unlimited2",TR| EuroStar TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306552.ts
+#EXTINF:-1 group-title="Unlimited2",TR| EXXEN SPORT 1
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306784.ts
+#EXTINF:-1 group-title="Unlimited2",TR| EXXEN SPORT 2
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306785.ts
+#EXTINF:-1 group-title="Unlimited2",TR| EXXEN SPORT 3
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306786.ts
+#EXTINF:-1 group-title="Unlimited2",TR| FB TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306782.ts
+#EXTINF:-1 group-title="Unlimited2",TR| FIBERBOX AKSİYON HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306880.ts
+#EXTINF:-1 group-title="Unlimited2",TR| FIBERBOX BİLİMKURGU HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306882.ts
+#EXTINF:-1 group-title="Unlimited2",TR| FIBERBOX DRAM HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306883.ts
+#EXTINF:-1 group-title="Unlimited2",TR| FIBERBOX FANTASTİK HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306884.ts
+#EXTINF:-1 group-title="Unlimited2",TR| FIBERBOX TURK HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306888.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Flash TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306586.ts
+#EXTINF:-1 group-title="Unlimited2",TR| FM TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306678.ts
+#EXTINF:-1 group-title="Unlimited2",TR| FOX TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306565.ts
+#EXTINF:-1 group-title="Unlimited2",TR| FOX TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306512.ts
+#EXTINF:-1 group-title="Unlimited2",TR| FOX TV HD+
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306511.ts
+#EXTINF:-1 group-title="Unlimited2",TR| FX HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306919.ts
+#EXTINF:-1 group-title="Unlimited2",TR| FX TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307001.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Global Haber HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307068.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Gonca TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306672.ts
+#EXTINF:-1 group-title="Unlimited2",TR| GS TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306781.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Haber Global FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307081.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Haber Turk FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307066.ts
+#EXTINF:-1 group-title="Unlimited2",TR| HABER TURK HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306927.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Haber Turk HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307065.ts
+#EXTINF:-1 group-title="Unlimited2",TR| HABERTURK HD+
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306926.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Halk HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307079.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Halk TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307080.ts
+#EXTINF:-1 group-title="Unlimited2",TR| HALK TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306936.ts
+#EXTINF:-1 group-title="Unlimited2",TR| HALK TV HD+
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306935.ts
+#EXTINF:-1 group-title="Unlimited2",TR| History HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306813.ts
+#EXTINF:-1 group-title="Unlimited2",TR| IZ HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306803.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kabe TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306610.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kadirga TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306679.ts
+#EXTINF:-1 group-title="Unlimited2",TR| KANAL 23
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306542.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kanal 23
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306636.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kanal 26 Eskisehir
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306689.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kanal 3 afyon
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306637.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kanal 33
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306638.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kanal 42 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306616.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kanal 43 Kutahya
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306681.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kanal 68
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306651.ts
+#EXTINF:-1 group-title="Unlimited2",TR| KANAL 7 EU LOCAL
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306525.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kanal 7 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306572.ts
+#EXTINF:-1 group-title="Unlimited2",TR| KANAL 7 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306516.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kanal 7 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306571.ts
+#EXTINF:-1 group-title="Unlimited2",TR| KANAL 7 HD LOCAL
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306524.ts
+#EXTINF:-1 group-title="Unlimited2",TR| KANAL 7 HD+
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306515.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kanal Aavrupa
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306690.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kanal B HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307073.ts
+#EXTINF:-1 group-title="Unlimited2",TR| KANAL D EU
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306534.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kanal D FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306554.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kanal D HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306553.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kanal Urfa
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306682.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kanal V
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306641.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Karadeniz Akustik TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307046.ts
+#EXTINF:-1 group-title="Unlimited2",TR| KAY TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306643.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kibris Ada TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306653.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kibris TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306652.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kon TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306618.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Kral Pop HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307096.ts
+#EXTINF:-1 group-title="Unlimited2",TR| KRT TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307085.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Lalegul TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306607.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Life
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306654.ts
+#EXTINF:-1 group-title="Unlimited2",TR| LOCA 4K WESTERN
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306874.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Love Nature HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306595.ts
+#EXTINF:-1 group-title="Unlimited2",TR| MAGICBOX KEMAL SUNAL HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306895.ts
+#EXTINF:-1 group-title="Unlimited2",TR| MAGICBOX LOCA 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306891.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Medine TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306684.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Mekke TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306613.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Meltem TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306617.ts
+#EXTINF:-1 group-title="Unlimited2",TR| METROPOL BARBIE
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306946.ts
+#EXTINF:-1 group-title="Unlimited2",TR| METROPOL BOOBA
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306947.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Milyon TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307100.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Movie Smart Classic HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306972.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Movie Smart Turk HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306971.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Nat Geo HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306593.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Nat Geo Wild HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306808.ts
+#EXTINF:-1 group-title="Unlimited2",TR| NAT GEO WILD TR HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306796.ts
+#EXTINF:-1 group-title="Unlimited2",TR| NILOYA
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307036.ts
+#EXTINF:-1 group-title="Unlimited2",TR| NR 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307093.ts
+#EXTINF:-1 group-title="Unlimited2",TR| NR1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307059.ts
+#EXTINF:-1 group-title="Unlimited2",TR| NR1 Turk  HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307094.ts
+#EXTINF:-1 group-title="Unlimited2",TR| NTV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307061.ts
+#EXTINF:-1 group-title="Unlimited2",TR| NTV HABER HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306931.ts
+#EXTINF:-1 group-title="Unlimited2",TR| OLAYTÜRK KAYSERİ
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306537.ts
+#EXTINF:-1 group-title="Unlimited2",TR| On 4
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306608.ts
+#EXTINF:-1 group-title="Unlimited2",TR| ORDU 52 TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306656.ts
+#EXTINF:-1 group-title="Unlimited2",TR| PEPE TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307035.ts
+#EXTINF:-1 group-title="Unlimited2",TR| PEPE TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306602.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Power HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307091.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Rumeli TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306645.ts
+#EXTINF:-1 group-title="Unlimited2",TR| S-Sport 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306773.ts
+#EXTINF:-1 group-title="Unlimited2",TR| S-Sport 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306774.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Sat 7 Turk
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306670.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Semerkand
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306611.ts
+#EXTINF:-1 group-title="Unlimited2",TR| SENER SEN TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306860.ts
+#EXTINF:-1 group-title="Unlimited2",TR| SHOW MAX
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306522.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Show Max HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306560.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Show Turk FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306559.ts
+#EXTINF:-1 group-title="Unlimited2",TR| SHOW TURK LOCAL
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306531.ts
+#EXTINF:-1 group-title="Unlimited2",TR| SHOW TV EU
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306521.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Show TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306558.ts
+#EXTINF:-1 group-title="Unlimited2",TR| SHOW TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306507.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Show TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306557.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Sinema TV AILE 2 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306983.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Sinema TV AKSIYON 2 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306984.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Sinema TV Aksiyon HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306981.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Sinema TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306976.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Sinema TV Komedİ HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306979.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Sinema TV Yerli 1
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306978.ts
+#EXTINF:-1 group-title="Unlimited2",TR| SinemaTV 2 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306977.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Sirinler TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306603.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Sivas SRT
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306650.ts
+#EXTINF:-1 group-title="Unlimited2",TR| STAR TV EU
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306535.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Star TV FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306549.ts
+#EXTINF:-1 group-title="Unlimited2",TR| STAR TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306505.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Star TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306550.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Tatlıses TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307101.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TELE 1
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306940.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TELE 1 +
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306941.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Tele 1 TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307082.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Teve 2 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306580.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TEVE 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306581.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TEVE 2 HD PLUS
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306519.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TGRT Belgesel
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306821.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TGRT EU
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306666.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TGRT HABER HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306933.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TiviBu Sport 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306765.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TiviBu Sport 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306766.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TiviBu Sport 3 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306767.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TJK TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306591.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TLC HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306818.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TLC TURK HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306807.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TMB
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306669.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TOM VE JERRY 7/24
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307034.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT 1 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306577.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306499.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT 2 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306579.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306578.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT 4K
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306576.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT 4K FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306497.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT Avaz HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306620.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT BELGESEL HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306792.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT Belgesel HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306820.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT Dİyanet TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306612.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT Kurdi HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306674.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT Muzik HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307102.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT Spor 1 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306775.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT Spor 2 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306776.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT Turk HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306582.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT World FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307087.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TRT World HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307086.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TV 100 HD LOCAL
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306527.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TV 8 EU
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306523.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TV 8 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306567.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TV 8.5 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306569.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TV Kayseri
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306668.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TV Net HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307078.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TV100 FHD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307083.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TV100 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307084.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TV5 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306675.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TV8 HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306509.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TV8 HD+
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306508.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TV8 INT LOCAL
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306533.ts
+#EXTINF:-1 group-title="Unlimited2",TR| TV8.5 HD+
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306510.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Ucankus TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306587.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Ulke TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307075.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Ulusal Canli TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306590.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Uzay Haber
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307072.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Vatan TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307099.ts
+#EXTINF:-1 group-title="Unlimited2",TR| VIPMAX 4K AKSiYON
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306867.ts
+#EXTINF:-1 group-title="Unlimited2",TR| VIPMAX 4K ROMANTIK
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306871.ts
+#EXTINF:-1 group-title="Unlimited2",TR| VOA TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306667.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Vuslat TV HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306614.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Yaban TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306600.ts
+#EXTINF:-1 group-title="Unlimited2",TR| YESiLCAM TV 2
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306859.ts
+#EXTINF:-1 group-title="Unlimited2",TR| Yol TV
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/306663.ts
